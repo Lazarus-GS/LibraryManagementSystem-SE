@@ -1,0 +1,14 @@
+Library Management System v1.0
+Application Log for 07-12-2020
+
+
+07/12/2020 10:05:44 PM Log Writer Initialized
+07/12/2020 10:05:44 PM Attempting Log Management
+
+07/12/2020 10:05:44 PM Login initialized with dBaseLocation: librarianDBase.enc
+07/12/2020 10:05:45 PM allUsers called
+07/12/2020 10:05:45 PM Data returned
+07/12/2020 10:05:55 PM loginUser called for iD: 0
+07/12/2020 10:05:55 PM Successfully logged in
+07/12/2020 10:05:55 PM getUName called with iD 0
+07/12/2020 10:05:55 PM Successfilly returend
