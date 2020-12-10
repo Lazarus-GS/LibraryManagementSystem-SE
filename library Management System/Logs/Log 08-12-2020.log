@@ -1,0 +1,563 @@
+Library Management System v1.0
+Application Log for 08-12-2020
+
+
+08/12/2020 08:58:51 PM Log Writer Initialized
+08/12/2020 08:58:51 PM Attempting Log Management
+
+08/12/2020 08:58:51 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 08:58:52 PM allUsers called
+08/12/2020 08:58:52 PM Data returned
+08/12/2020 08:59:03 PM loginUser called for iD: 0
+08/12/2020 08:59:03 PM Successfully logged in
+08/12/2020 08:59:03 PM getUName called with iD 0
+08/12/2020 08:59:03 PM Successfully returend
+
+08/12/2020 08:59:38 PM Log Writer Initialized
+08/12/2020 08:59:38 PM Attempting Log Management
+
+08/12/2020 08:59:38 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 08:59:38 PM allUsers called
+08/12/2020 08:59:38 PM Data returned
+
+08/12/2020 09:37:49 PM Log Writer Initialized
+08/12/2020 09:37:49 PM Attempting Log Management
+
+08/12/2020 09:37:49 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:37:49 PM allUsers called
+08/12/2020 09:37:49 PM Data returned
+
+08/12/2020 09:40:53 PM Log Writer Initialized
+08/12/2020 09:40:53 PM Attempting Log Management
+
+08/12/2020 09:40:53 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:40:53 PM allUsers called
+08/12/2020 09:40:53 PM Data returned
+08/12/2020 09:40:59 PM loginUser called for iD: 0
+08/12/2020 09:40:59 PM Successfully logged in
+08/12/2020 09:41:06 PM loginUser called for iD: 0
+08/12/2020 09:41:06 PM Successfully logged in
+08/12/2020 09:41:06 PM getUName called with iD 0
+08/12/2020 09:41:06 PM Successfully returend
+
+08/12/2020 09:42:16 PM Log Writer Initialized
+08/12/2020 09:42:16 PM Attempting Log Management
+
+08/12/2020 09:42:16 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:42:16 PM allUsers called
+08/12/2020 09:42:16 PM Data returned
+08/12/2020 09:42:21 PM loginUser called for iD: 0
+08/12/2020 09:42:21 PM Successfully logged in
+08/12/2020 09:42:21 PM getUName called with iD 0
+08/12/2020 09:42:21 PM Successfully returend
+
+08/12/2020 09:43:10 PM Log Writer Initialized
+08/12/2020 09:43:10 PM Attempting Log Management
+
+08/12/2020 09:43:10 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:43:10 PM allUsers called
+08/12/2020 09:43:10 PM Data returned
+08/12/2020 09:43:14 PM loginUser called for iD: 0
+08/12/2020 09:43:14 PM Successfully logged in
+08/12/2020 09:43:14 PM getUName called with iD 0
+08/12/2020 09:43:14 PM Successfully returend
+
+08/12/2020 09:43:52 PM Log Writer Initialized
+08/12/2020 09:43:52 PM Attempting Log Management
+
+08/12/2020 09:43:52 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:43:52 PM allUsers called
+08/12/2020 09:43:53 PM Data returned
+08/12/2020 09:43:56 PM loginUser called for iD: 0
+08/12/2020 09:43:56 PM Successfully logged in
+08/12/2020 09:43:56 PM getUName called with iD 0
+08/12/2020 09:43:56 PM Successfully returend
+
+08/12/2020 09:45:38 PM Log Writer Initialized
+08/12/2020 09:45:38 PM Attempting Log Management
+
+08/12/2020 09:45:38 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:45:38 PM allUsers called
+08/12/2020 09:45:38 PM Data returned
+08/12/2020 09:45:43 PM loginUser called for iD: 0
+08/12/2020 09:45:43 PM Successfully logged in
+08/12/2020 09:45:43 PM getUName called with iD 0
+08/12/2020 09:45:43 PM Successfully returend
+
+08/12/2020 09:46:30 PM Log Writer Initialized
+08/12/2020 09:46:30 PM Attempting Log Management
+
+08/12/2020 09:46:30 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:46:30 PM allUsers called
+08/12/2020 09:46:30 PM Data returned
+08/12/2020 09:46:35 PM loginUser called for iD: 0
+08/12/2020 09:46:35 PM Successfully logged in
+08/12/2020 09:46:35 PM getUName called with iD 0
+08/12/2020 09:46:35 PM Successfully returend
+
+08/12/2020 09:47:46 PM Log Writer Initialized
+08/12/2020 09:47:46 PM Attempting Log Management
+
+08/12/2020 09:47:46 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:47:46 PM allUsers called
+08/12/2020 09:47:46 PM Data returned
+08/12/2020 09:47:55 PM loginUser called for iD: 0
+08/12/2020 09:47:55 PM Successfully logged in
+08/12/2020 09:47:55 PM getUName called with iD 0
+08/12/2020 09:47:55 PM Successfully returend
+
+08/12/2020 09:50:58 PM Log Writer Initialized
+08/12/2020 09:50:58 PM Attempting Log Management
+
+08/12/2020 09:50:58 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:50:58 PM allUsers called
+08/12/2020 09:50:58 PM Data returned
+08/12/2020 09:51:03 PM loginUser called for iD: 0
+08/12/2020 09:51:03 PM Successfully logged in
+08/12/2020 09:51:03 PM getUName called with iD 0
+08/12/2020 09:51:03 PM Successfully returend
+
+08/12/2020 09:52:10 PM Log Writer Initialized
+08/12/2020 09:52:10 PM Attempting Log Management
+
+08/12/2020 09:52:10 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:52:11 PM allUsers called
+08/12/2020 09:52:11 PM Data returned
+08/12/2020 09:52:16 PM loginUser called for iD: 0
+08/12/2020 09:52:16 PM Successfully logged in
+08/12/2020 09:52:16 PM getUName called with iD 0
+08/12/2020 09:52:16 PM Successfully returend
+
+08/12/2020 09:52:38 PM Log Writer Initialized
+08/12/2020 09:52:38 PM Attempting Log Management
+
+08/12/2020 09:52:38 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:52:38 PM allUsers called
+08/12/2020 09:52:38 PM Data returned
+08/12/2020 09:52:43 PM loginUser called for iD: 0
+08/12/2020 09:52:43 PM Successfully logged in
+08/12/2020 09:52:43 PM getUName called with iD 0
+08/12/2020 09:52:43 PM Successfully returend
+
+08/12/2020 09:59:46 PM Log Writer Initialized
+08/12/2020 09:59:46 PM Attempting Log Management
+
+08/12/2020 09:59:46 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 09:59:46 PM allUsers called
+08/12/2020 09:59:46 PM Data returned
+08/12/2020 09:59:50 PM loginUser called for iD: 0
+08/12/2020 09:59:50 PM Successfully logged in
+08/12/2020 09:59:50 PM getUName called with iD 0
+08/12/2020 09:59:50 PM Successfully returend
+
+08/12/2020 10:51:25 PM Log Writer Initialized
+08/12/2020 10:51:25 PM Attempting Log Management
+
+08/12/2020 10:51:25 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 10:51:29 PM Log Writer Initialized
+08/12/2020 10:51:29 PM Attempting Log Management
+
+08/12/2020 10:51:29 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 10:51:29 PM allUsers called
+08/12/2020 10:51:29 PM Data returned
+08/12/2020 10:51:36 PM loginUser called for iD: 1
+08/12/2020 10:51:36 PM Successfully logged in
+08/12/2020 10:51:36 PM getUName called with iD 1
+08/12/2020 10:51:36 PM Successfully returend
+
+08/12/2020 10:52:23 PM Log Writer Initialized
+08/12/2020 10:52:23 PM Attempting Log Management
+
+08/12/2020 10:52:23 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 10:52:24 PM Log Writer Initialized
+08/12/2020 10:52:24 PM Attempting Log Management
+
+08/12/2020 10:52:24 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 10:52:24 PM allUsers called
+08/12/2020 10:52:24 PM Data returned
+08/12/2020 10:52:30 PM loginUser called for iD: 1
+08/12/2020 10:52:30 PM Successfully logged in
+08/12/2020 10:52:30 PM getUName called with iD 1
+08/12/2020 10:52:30 PM Successfully returend
+
+08/12/2020 10:53:37 PM Log Writer Initialized
+08/12/2020 10:53:37 PM Attempting Log Management
+
+08/12/2020 10:53:37 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 10:54:20 PM changePWord called for iD 1
+08/12/2020 10:54:20 PM Successfully edited
+08/12/2020 10:54:54 PM changePWord called for iD 1
+08/12/2020 10:54:54 PM Successfully edited
+
+08/12/2020 10:58:07 PM Log Writer Initialized
+08/12/2020 10:58:07 PM Attempting Log Management
+
+08/12/2020 10:58:07 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 10:58:30 PM changePWord called for iD 1
+08/12/2020 10:58:30 PM Successfully edited
+08/12/2020 10:58:46 PM changePWord called for iD 1
+08/12/2020 10:58:46 PM Successfully edited
+
+08/12/2020 11:00:30 PM Log Writer Initialized
+08/12/2020 11:00:30 PM Attempting Log Management
+
+08/12/2020 11:00:30 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:00:47 PM changePWord called for iD 1
+08/12/2020 11:00:47 PM Successfully edited
+08/12/2020 11:02:29 PM changePWord called for iD 1
+08/12/2020 11:02:29 PM Successfully edited
+08/12/2020 11:02:51 PM changePWord called for iD 1
+08/12/2020 11:02:51 PM Successfully edited
+08/12/2020 11:03:03 PM changePWord called for iD 1
+08/12/2020 11:03:03 PM Successfully edited
+08/12/2020 11:03:42 PM changePWord called for iD 1
+08/12/2020 11:03:42 PM Successfully edited
+
+08/12/2020 11:06:51 PM Log Writer Initialized
+08/12/2020 11:06:51 PM Attempting Log Management
+
+08/12/2020 11:06:51 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:07:31 PM changePWord called for iD 1
+08/12/2020 11:07:31 PM Successfully edited
+08/12/2020 11:07:52 PM changePWord called for iD 1
+08/12/2020 11:07:52 PM Successfully edited
+
+08/12/2020 11:07:55 PM Log Writer Initialized
+08/12/2020 11:07:55 PM Attempting Log Management
+
+08/12/2020 11:07:55 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:07:55 PM allUsers called
+08/12/2020 11:07:55 PM Data returned
+08/12/2020 11:07:58 PM loginUser called for iD: 1
+08/12/2020 11:07:59 PM Successfully logged in
+08/12/2020 11:07:59 PM getUName called with iD 1
+08/12/2020 11:07:59 PM Successfully returend
+
+08/12/2020 11:10:21 PM Log Writer Initialized
+08/12/2020 11:10:21 PM Attempting Log Management
+
+08/12/2020 11:10:21 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:10:42 PM changePWord called for iD 1
+08/12/2020 11:10:42 PM Successfully edited
+
+08/12/2020 11:13:22 PM Log Writer Initialized
+08/12/2020 11:13:22 PM Attempting Log Management
+
+08/12/2020 11:13:22 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:13:38 PM changePWord called for iD 1
+08/12/2020 11:13:38 PM Successfully edited
+
+08/12/2020 11:15:32 PM Log Writer Initialized
+08/12/2020 11:15:32 PM Attempting Log Management
+
+08/12/2020 11:15:32 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:15:43 PM changePWord called for iD 1
+08/12/2020 11:15:43 PM Successfully edited
+
+08/12/2020 11:16:12 PM Log Writer Initialized
+08/12/2020 11:16:12 PM Attempting Log Management
+
+08/12/2020 11:16:12 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:16:13 PM Log Writer Initialized
+08/12/2020 11:16:13 PM Attempting Log Management
+
+08/12/2020 11:16:13 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:16:13 PM allUsers called
+08/12/2020 11:16:13 PM Data returned
+08/12/2020 11:16:16 PM loginUser called for iD: 1
+08/12/2020 11:16:16 PM Successfully logged in
+08/12/2020 11:16:16 PM getUName called with iD 1
+08/12/2020 11:16:16 PM Successfully returend
+
+08/12/2020 11:17:27 PM Log Writer Initialized
+08/12/2020 11:17:27 PM Attempting Log Management
+
+08/12/2020 11:17:27 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:17:29 PM Log Writer Initialized
+08/12/2020 11:17:29 PM Attempting Log Management
+
+08/12/2020 11:17:29 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:17:29 PM allUsers called
+08/12/2020 11:17:29 PM Data returned
+08/12/2020 11:17:33 PM loginUser called for iD: 1
+08/12/2020 11:17:33 PM Successfully logged in
+08/12/2020 11:17:33 PM getUName called with iD 1
+08/12/2020 11:17:33 PM Successfully returend
+
+08/12/2020 11:18:14 PM Log Writer Initialized
+08/12/2020 11:18:14 PM Attempting Log Management
+
+08/12/2020 11:18:14 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:18:16 PM Log Writer Initialized
+08/12/2020 11:18:16 PM Attempting Log Management
+
+08/12/2020 11:18:16 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:18:16 PM allUsers called
+08/12/2020 11:18:16 PM Data returned
+08/12/2020 11:18:20 PM loginUser called for iD: 1
+08/12/2020 11:18:20 PM Successfully logged in
+08/12/2020 11:18:20 PM getUName called with iD 1
+08/12/2020 11:18:20 PM Successfully returend
+
+08/12/2020 11:19:43 PM Log Writer Initialized
+08/12/2020 11:19:43 PM Attempting Log Management
+
+08/12/2020 11:19:43 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:19:45 PM Log Writer Initialized
+08/12/2020 11:19:45 PM Attempting Log Management
+
+08/12/2020 11:19:45 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:19:45 PM allUsers called
+08/12/2020 11:19:45 PM Data returned
+
+08/12/2020 11:19:51 PM Log Writer Initialized
+08/12/2020 11:19:51 PM Attempting Log Management
+
+08/12/2020 11:19:51 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:19:53 PM Log Writer Initialized
+08/12/2020 11:19:53 PM Attempting Log Management
+
+08/12/2020 11:19:53 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:19:53 PM allUsers called
+08/12/2020 11:19:53 PM Data returned
+08/12/2020 11:19:57 PM loginUser called for iD: 1
+08/12/2020 11:19:57 PM Successfully logged in
+08/12/2020 11:19:57 PM getUName called with iD 1
+08/12/2020 11:19:57 PM Successfully returend
+
+08/12/2020 11:24:01 PM Log Writer Initialized
+08/12/2020 11:24:01 PM Attempting Log Management
+
+08/12/2020 11:24:01 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:24:02 PM Log Writer Initialized
+08/12/2020 11:24:02 PM Attempting Log Management
+
+08/12/2020 11:24:02 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:24:02 PM allUsers called
+08/12/2020 11:24:02 PM Data returned
+08/12/2020 11:24:05 PM loginUser called for iD: 1
+08/12/2020 11:24:05 PM Successfully logged in
+08/12/2020 11:24:05 PM getUName called with iD 1
+08/12/2020 11:24:05 PM Successfully returend
+
+08/12/2020 11:25:58 PM Log Writer Initialized
+08/12/2020 11:25:58 PM Attempting Log Management
+
+08/12/2020 11:25:58 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:25:59 PM Log Writer Initialized
+08/12/2020 11:25:59 PM Attempting Log Management
+
+08/12/2020 11:25:59 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:25:59 PM allUsers called
+08/12/2020 11:25:59 PM Data returned
+08/12/2020 11:26:02 PM loginUser called for iD: 1
+08/12/2020 11:26:02 PM Successfully logged in
+08/12/2020 11:26:02 PM getUName called with iD 1
+08/12/2020 11:26:02 PM Successfully returend
+
+08/12/2020 11:27:02 PM Log Writer Initialized
+08/12/2020 11:27:03 PM Attempting Log Management
+
+08/12/2020 11:27:03 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:27:04 PM Log Writer Initialized
+08/12/2020 11:27:04 PM Attempting Log Management
+
+08/12/2020 11:27:04 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:27:04 PM allUsers called
+08/12/2020 11:27:04 PM Data returned
+08/12/2020 11:27:08 PM loginUser called for iD: 2
+08/12/2020 11:27:08 PM Successfully logged in
+08/12/2020 11:27:10 PM loginUser called for iD: 2
+08/12/2020 11:27:10 PM Successfully logged in
+08/12/2020 11:27:15 PM loginUser called for iD: 1
+08/12/2020 11:27:15 PM Successfully logged in
+08/12/2020 11:27:15 PM getUName called with iD 1
+08/12/2020 11:27:15 PM Successfully returend
+
+08/12/2020 11:27:55 PM Log Writer Initialized
+08/12/2020 11:27:55 PM Attempting Log Management
+
+08/12/2020 11:27:55 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:27:56 PM Log Writer Initialized
+08/12/2020 11:27:56 PM Attempting Log Management
+
+08/12/2020 11:27:56 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:27:56 PM allUsers called
+08/12/2020 11:27:56 PM Data returned
+08/12/2020 11:28:00 PM loginUser called for iD: 1
+08/12/2020 11:28:00 PM Successfully logged in
+08/12/2020 11:28:00 PM getUName called with iD 1
+08/12/2020 11:28:00 PM Successfully returend
+
+08/12/2020 11:28:21 PM Log Writer Initialized
+08/12/2020 11:28:21 PM Attempting Log Management
+
+08/12/2020 11:28:21 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:28:22 PM Log Writer Initialized
+08/12/2020 11:28:22 PM Attempting Log Management
+
+08/12/2020 11:28:22 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:28:22 PM allUsers called
+08/12/2020 11:28:22 PM Data returned
+08/12/2020 11:28:25 PM loginUser called for iD: 1
+08/12/2020 11:28:25 PM Successfully logged in
+08/12/2020 11:28:25 PM getUName called with iD 1
+08/12/2020 11:28:25 PM Successfully returend
+
+08/12/2020 11:28:48 PM Log Writer Initialized
+08/12/2020 11:28:48 PM Attempting Log Management
+
+08/12/2020 11:28:48 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:28:49 PM Log Writer Initialized
+08/12/2020 11:28:49 PM Attempting Log Management
+
+08/12/2020 11:28:49 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:28:49 PM allUsers called
+08/12/2020 11:28:49 PM Data returned
+08/12/2020 11:28:52 PM loginUser called for iD: 1
+08/12/2020 11:28:52 PM Successfully logged in
+08/12/2020 11:28:52 PM getUName called with iD 1
+08/12/2020 11:28:52 PM Successfully returend
+
+08/12/2020 11:29:12 PM Log Writer Initialized
+08/12/2020 11:29:12 PM Attempting Log Management
+
+08/12/2020 11:29:12 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:29:13 PM Log Writer Initialized
+08/12/2020 11:29:13 PM Attempting Log Management
+
+08/12/2020 11:29:13 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:29:13 PM allUsers called
+08/12/2020 11:29:13 PM Data returned
+08/12/2020 11:29:16 PM loginUser called for iD: 1
+08/12/2020 11:29:16 PM Successfully logged in
+08/12/2020 11:29:19 PM loginUser called for iD: 1
+08/12/2020 11:29:19 PM Successfully logged in
+08/12/2020 11:29:19 PM getUName called with iD 1
+08/12/2020 11:29:19 PM Successfully returend
+
+08/12/2020 11:30:11 PM Log Writer Initialized
+08/12/2020 11:30:11 PM Attempting Log Management
+
+08/12/2020 11:30:11 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:30:12 PM Log Writer Initialized
+08/12/2020 11:30:12 PM Attempting Log Management
+
+08/12/2020 11:30:12 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:30:12 PM allUsers called
+08/12/2020 11:30:12 PM Data returned
+08/12/2020 11:30:15 PM loginUser called for iD: 1
+08/12/2020 11:30:15 PM Successfully logged in
+08/12/2020 11:30:15 PM getUName called with iD 1
+08/12/2020 11:30:15 PM Successfully returend
+
+08/12/2020 11:30:55 PM Log Writer Initialized
+08/12/2020 11:30:55 PM Attempting Log Management
+
+08/12/2020 11:30:55 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:30:57 PM Log Writer Initialized
+08/12/2020 11:30:57 PM Attempting Log Management
+
+08/12/2020 11:30:57 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:30:57 PM allUsers called
+08/12/2020 11:30:57 PM Data returned
+08/12/2020 11:31:00 PM loginUser called for iD: 1
+08/12/2020 11:31:00 PM Successfully logged in
+08/12/2020 11:31:00 PM getUName called with iD 1
+08/12/2020 11:31:00 PM Successfully returend
+
+08/12/2020 11:31:17 PM Log Writer Initialized
+08/12/2020 11:31:17 PM Attempting Log Management
+
+08/12/2020 11:31:17 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:31:36 PM Log Writer Initialized
+08/12/2020 11:31:36 PM Attempting Log Management
+
+08/12/2020 11:31:36 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:31:37 PM Log Writer Initialized
+08/12/2020 11:31:37 PM Attempting Log Management
+
+08/12/2020 11:31:37 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:31:37 PM allUsers called
+08/12/2020 11:31:37 PM Data returned
+08/12/2020 11:31:41 PM loginUser called for iD: 1
+08/12/2020 11:31:42 PM Successfully logged in
+08/12/2020 11:31:42 PM getUName called with iD 1
+08/12/2020 11:31:42 PM Successfully returend
+
+08/12/2020 11:32:40 PM Log Writer Initialized
+08/12/2020 11:32:40 PM Attempting Log Management
+
+08/12/2020 11:32:40 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:32:41 PM Log Writer Initialized
+08/12/2020 11:32:41 PM Attempting Log Management
+
+08/12/2020 11:32:41 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:32:41 PM allUsers called
+08/12/2020 11:32:41 PM Data returned
+08/12/2020 11:32:44 PM loginUser called for iD: 1
+08/12/2020 11:32:44 PM Successfully logged in
+08/12/2020 11:32:44 PM getUName called with iD 1
+08/12/2020 11:32:44 PM Successfully returend
+
+08/12/2020 11:34:14 PM Log Writer Initialized
+08/12/2020 11:34:14 PM Attempting Log Management
+
+08/12/2020 11:34:14 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:34:46 PM changePWord called for iD 1
+08/12/2020 11:34:46 PM Successfully edited
+08/12/2020 11:34:57 PM changePWord called for iD 1
+08/12/2020 11:34:57 PM Successfully edited
+08/12/2020 11:35:11 PM changePWord called for iD 1
+08/12/2020 11:35:12 PM Successfully edited
+
+08/12/2020 11:37:33 PM Log Writer Initialized
+08/12/2020 11:37:33 PM Attempting Log Management
+
+08/12/2020 11:37:33 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:37:34 PM Log Writer Initialized
+08/12/2020 11:37:34 PM Attempting Log Management
+
+08/12/2020 11:37:34 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:37:34 PM allUsers called
+08/12/2020 11:37:34 PM Data returned
+08/12/2020 11:37:41 PM loginUser called for iD: 1
+08/12/2020 11:37:41 PM Successfully logged in
+08/12/2020 11:37:41 PM getUName called with iD 1
+08/12/2020 11:37:41 PM Successfully returend
+
+08/12/2020 11:38:40 PM Log Writer Initialized
+08/12/2020 11:38:40 PM Attempting Log Management
+
+08/12/2020 11:38:40 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+08/12/2020 11:38:41 PM Log Writer Initialized
+08/12/2020 11:38:41 PM Attempting Log Management
+
+08/12/2020 11:38:41 PM Login initialized with dBaseLocation: librarianDBase.enc
+08/12/2020 11:38:41 PM allUsers called
+08/12/2020 11:38:41 PM Data returned
+08/12/2020 11:38:46 PM loginUser called for iD: 1
+08/12/2020 11:38:46 PM Successfully logged in
+08/12/2020 11:38:46 PM getUName called with iD 1
+08/12/2020 11:38:46 PM Successfully returend

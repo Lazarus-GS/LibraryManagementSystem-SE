@@ -1,0 +1,1649 @@
+Library Management System v1.0
+Application Log for 10-12-2020
+
+
+10/12/2020 12:05:39 AM Log Writer Initialized
+10/12/2020 12:05:39 AM Attempting Log Management
+10/12/2020 12:05:39 AM Old Log 'Log 09-12-2020.log' found. Moving to 'Logs' folder
+10/12/2020 12:05:39 AM Moved successfully
+
+10/12/2020 12:05:41 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:05:41 AM Log Writer Initialized
+10/12/2020 12:05:41 AM Attempting Log Management
+
+10/12/2020 12:05:41 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:05:41 AM getCategoryFilter called
+10/12/2020 12:05:41 AM Category list returned
+10/12/2020 12:05:41 AM getShelfFilters called
+10/12/2020 12:05:41 AM Shelf filters returned
+10/12/2020 12:05:41 AM Called getData with no parameters
+10/12/2020 12:05:41 AM No filter applied
+10/12/2020 12:05:41 AM Successfully returned
+10/12/2020 12:05:41 AM getInfo called with iD parameter: 9
+10/12/2020 12:05:41 AM Data returned successfully
+10/12/2020 12:05:42 AM getInfo called with iD parameter: 9
+10/12/2020 12:05:42 AM Data returned successfully
+10/12/2020 12:05:42 AM getShelfFilters called
+10/12/2020 12:05:42 AM Shelf filters returned
+10/12/2020 12:05:42 AM getCategoryFilter called
+10/12/2020 12:05:42 AM Category list returned
+
+10/12/2020 12:05:49 AM Log Writer Initialized
+10/12/2020 12:05:49 AM Attempting Log Management
+
+10/12/2020 12:05:49 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:05:49 AM Log Writer Initialized
+10/12/2020 12:05:49 AM Attempting Log Management
+10/12/2020 12:05:49 AM Login initialized with dBaseLocation: LMS.accdb, Table: Books
+10/12/2020 12:05:49 AM getData called with no parameters
+10/12/2020 12:05:49 AM Data returned
+10/12/2020 12:05:49 AM getInfo called with iD 9
+
+10/12/2020 12:07:16 AM Log Writer Initialized
+10/12/2020 12:07:16 AM Attempting Log Management
+
+10/12/2020 12:07:16 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:07:16 AM Log Writer Initialized
+10/12/2020 12:07:16 AM Attempting Log Management
+
+10/12/2020 12:07:16 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:07:16 AM getCategoryFilter called
+10/12/2020 12:07:16 AM Category list returned
+10/12/2020 12:07:16 AM getShelfFilters called
+10/12/2020 12:07:16 AM Shelf filters returned
+10/12/2020 12:07:16 AM Called getData with no parameters
+10/12/2020 12:07:16 AM No filter applied
+10/12/2020 12:07:16 AM Successfully returned
+10/12/2020 12:07:16 AM getInfo called with iD parameter: 9
+10/12/2020 12:07:17 AM Data returned successfully
+10/12/2020 12:07:17 AM getInfo called with iD parameter: 9
+10/12/2020 12:07:17 AM Data returned successfully
+10/12/2020 12:07:17 AM getShelfFilters called
+10/12/2020 12:07:17 AM Shelf filters returned
+10/12/2020 12:07:17 AM getCategoryFilter called
+10/12/2020 12:07:18 AM Category list returned
+
+10/12/2020 12:07:21 AM Log Writer Initialized
+10/12/2020 12:07:21 AM Attempting Log Management
+10/12/2020 12:07:21 AM Login initialized with dBaseLocation: LMS.accdb, Table: Members
+10/12/2020 12:07:21 AM getData called with no parameters
+10/12/2020 12:07:21 AM Data returned
+10/12/2020 12:07:21 AM getInfo called with iD 1
+10/12/2020 12:07:22 AM Data returned
+10/12/2020 12:07:22 AM getInfo called with iD 1
+10/12/2020 12:07:22 AM Data returned
+10/12/2020 12:07:25 AM getInfo called with iD 2
+10/12/2020 12:07:26 AM Data returned
+10/12/2020 12:07:26 AM getInfo called with iD 6
+10/12/2020 12:07:26 AM Data returned
+10/12/2020 12:07:29 AM getInfo called with iD 1
+10/12/2020 12:07:29 AM Data returned
+10/12/2020 12:07:32 AM getInfo called with iD 2
+10/12/2020 12:07:32 AM Data returned
+10/12/2020 12:07:33 AM getInfo called with iD 3
+10/12/2020 12:07:33 AM Data returned
+10/12/2020 12:07:33 AM getInfo called with iD 4
+10/12/2020 12:07:34 AM Data returned
+10/12/2020 12:07:35 AM getInfo called with iD 5
+10/12/2020 12:07:35 AM Data returned
+10/12/2020 12:07:36 AM getInfo called with iD 6
+10/12/2020 12:07:36 AM Data returned
+
+10/12/2020 12:07:36 AM Log Writer Initialized
+10/12/2020 12:07:36 AM Attempting Log Management
+
+10/12/2020 12:07:36 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:07:42 AM Log Writer Initialized
+10/12/2020 12:07:42 AM Attempting Log Management
+
+10/12/2020 12:07:42 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:07:42 AM Log Writer Initialized
+10/12/2020 12:07:42 AM Attempting Log Management
+10/12/2020 12:07:42 AM Login initialized with dBaseLocation: LMS.accdb, Table: Books
+10/12/2020 12:07:42 AM getData called with no parameters
+10/12/2020 12:07:42 AM Data returned
+10/12/2020 12:07:42 AM getInfo called with iD 9
+
+10/12/2020 12:10:47 AM Log Writer Initialized
+10/12/2020 12:10:47 AM Attempting Log Management
+
+10/12/2020 12:10:47 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:10:47 AM Log Writer Initialized
+10/12/2020 12:10:47 AM Attempting Log Management
+
+10/12/2020 12:10:47 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:10:47 AM getCategoryFilter called
+10/12/2020 12:10:47 AM Category list returned
+10/12/2020 12:10:47 AM getShelfFilters called
+10/12/2020 12:10:47 AM Shelf filters returned
+10/12/2020 12:10:47 AM Called getData with no parameters
+10/12/2020 12:10:47 AM No filter applied
+10/12/2020 12:10:48 AM Successfully returned
+10/12/2020 12:10:48 AM getInfo called with iD parameter: 9
+10/12/2020 12:10:48 AM Data returned successfully
+10/12/2020 12:10:48 AM getInfo called with iD parameter: 9
+10/12/2020 12:10:48 AM Data returned successfully
+10/12/2020 12:10:48 AM getShelfFilters called
+10/12/2020 12:10:48 AM Shelf filters returned
+10/12/2020 12:10:48 AM getCategoryFilter called
+10/12/2020 12:10:49 AM Category list returned
+
+10/12/2020 12:10:55 AM Log Writer Initialized
+10/12/2020 12:10:55 AM Attempting Log Management
+
+10/12/2020 12:10:55 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:10:55 AM Log Writer Initialized
+10/12/2020 12:10:55 AM Attempting Log Management
+10/12/2020 12:10:55 AM Login initialized with dBaseLocation: LMS.accdb, Table: Members
+10/12/2020 12:10:55 AM getData called with no parameters
+10/12/2020 12:10:55 AM Data returned
+10/12/2020 12:10:55 AM getInfo called with iD 1
+10/12/2020 12:10:55 AM Data returned
+10/12/2020 12:10:55 AM getInfo called with iD 1
+10/12/2020 12:10:56 AM Data returned
+10/12/2020 12:10:58 AM getInfo called with iD 2
+10/12/2020 12:10:58 AM Data returned
+10/12/2020 12:11:00 AM getInfo called with iD 3
+10/12/2020 12:11:00 AM Data returned
+10/12/2020 12:11:03 AM getInfo called with iD 6
+10/12/2020 12:11:03 AM Data returned
+10/12/2020 12:11:05 AM getInfo called with iD 5
+10/12/2020 12:11:05 AM Data returned
+10/12/2020 12:11:07 AM getInfo called with iD 1
+10/12/2020 12:11:07 AM Data returned
+
+10/12/2020 12:11:07 AM Log Writer Initialized
+10/12/2020 12:11:07 AM Attempting Log Management
+
+10/12/2020 12:11:07 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:12:39 AM Log Writer Initialized
+10/12/2020 12:12:39 AM Attempting Log Management
+
+10/12/2020 12:12:39 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:12:39 AM Log Writer Initialized
+10/12/2020 12:12:39 AM Attempting Log Management
+
+10/12/2020 12:12:39 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:12:39 AM getCategoryFilter called
+10/12/2020 12:12:40 AM Category list returned
+10/12/2020 12:12:40 AM getShelfFilters called
+10/12/2020 12:12:40 AM Shelf filters returned
+10/12/2020 12:12:40 AM Called getData with no parameters
+10/12/2020 12:12:40 AM No filter applied
+10/12/2020 12:12:40 AM Successfully returned
+10/12/2020 12:12:40 AM getInfo called with iD parameter: 9
+10/12/2020 12:12:40 AM Data returned successfully
+10/12/2020 12:12:41 AM getInfo called with iD parameter: 9
+10/12/2020 12:12:41 AM Data returned successfully
+10/12/2020 12:12:41 AM getShelfFilters called
+10/12/2020 12:12:41 AM Shelf filters returned
+10/12/2020 12:12:41 AM getCategoryFilter called
+10/12/2020 12:12:41 AM Category list returned
+
+10/12/2020 12:13:16 AM Log Writer Initialized
+10/12/2020 12:13:16 AM Attempting Log Management
+
+10/12/2020 12:13:16 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:13:16 AM Log Writer Initialized
+10/12/2020 12:13:16 AM Attempting Log Management
+
+10/12/2020 12:13:16 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:13:16 AM getCategoryFilter called
+10/12/2020 12:13:16 AM Category list returned
+10/12/2020 12:13:16 AM getShelfFilters called
+10/12/2020 12:13:17 AM Shelf filters returned
+10/12/2020 12:13:17 AM Called getData with no parameters
+10/12/2020 12:13:17 AM No filter applied
+10/12/2020 12:13:17 AM Successfully returned
+10/12/2020 12:13:17 AM getInfo called with iD parameter: 9
+10/12/2020 12:13:17 AM Data returned successfully
+10/12/2020 12:13:17 AM getInfo called with iD parameter: 9
+10/12/2020 12:13:17 AM Data returned successfully
+10/12/2020 12:13:18 AM getShelfFilters called
+10/12/2020 12:13:18 AM Shelf filters returned
+10/12/2020 12:13:18 AM getCategoryFilter called
+10/12/2020 12:13:18 AM Category list returned
+
+10/12/2020 12:13:20 AM Log Writer Initialized
+10/12/2020 12:13:20 AM Attempting Log Management
+
+10/12/2020 12:13:20 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:13:20 AM Log Writer Initialized
+10/12/2020 12:13:20 AM Attempting Log Management
+10/12/2020 12:13:20 AM Login initialized with dBaseLocation: LMS.accdb, Table: Members
+10/12/2020 12:13:20 AM getData called with no parameters
+10/12/2020 12:13:20 AM Data returned
+10/12/2020 12:13:20 AM getInfo called with iD 1
+10/12/2020 12:13:20 AM Data returned
+10/12/2020 12:13:21 AM getInfo called with iD 1
+10/12/2020 12:13:21 AM Data returned
+
+10/12/2020 12:13:21 AM Log Writer Initialized
+10/12/2020 12:13:21 AM Attempting Log Management
+
+10/12/2020 12:13:21 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:13:57 AM Log Writer Initialized
+10/12/2020 12:13:58 AM Attempting Log Management
+
+10/12/2020 12:13:58 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:13:58 AM Log Writer Initialized
+10/12/2020 12:13:58 AM Attempting Log Management
+
+10/12/2020 12:13:58 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:13:58 AM getCategoryFilter called
+10/12/2020 12:13:58 AM Category list returned
+10/12/2020 12:13:58 AM getShelfFilters called
+10/12/2020 12:13:58 AM Shelf filters returned
+10/12/2020 12:13:58 AM Called getData with no parameters
+10/12/2020 12:13:58 AM No filter applied
+10/12/2020 12:13:58 AM Successfully returned
+10/12/2020 12:13:58 AM getInfo called with iD parameter: 9
+10/12/2020 12:13:58 AM Data returned successfully
+10/12/2020 12:13:59 AM getInfo called with iD parameter: 9
+10/12/2020 12:13:59 AM Data returned successfully
+10/12/2020 12:13:59 AM getShelfFilters called
+10/12/2020 12:13:59 AM Shelf filters returned
+10/12/2020 12:13:59 AM getCategoryFilter called
+10/12/2020 12:13:59 AM Category list returned
+
+10/12/2020 12:14:04 AM Log Writer Initialized
+10/12/2020 12:14:04 AM Attempting Log Management
+
+10/12/2020 12:14:04 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+10/12/2020 12:14:06 AM Checkout for User: 1, Book: 9
+10/12/2020 12:14:06 AM Successfully logged out
+
+10/12/2020 12:14:52 AM Log Writer Initialized
+10/12/2020 12:14:52 AM Attempting Log Management
+
+10/12/2020 12:14:52 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:14:52 AM Log Writer Initialized
+10/12/2020 12:14:52 AM Attempting Log Management
+
+10/12/2020 12:14:52 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:14:52 AM getCategoryFilter called
+10/12/2020 12:14:52 AM Category list returned
+10/12/2020 12:14:52 AM getShelfFilters called
+10/12/2020 12:14:52 AM Shelf filters returned
+10/12/2020 12:14:52 AM Called getData with no parameters
+10/12/2020 12:14:52 AM No filter applied
+10/12/2020 12:14:53 AM Successfully returned
+10/12/2020 12:14:53 AM getInfo called with iD parameter: 9
+10/12/2020 12:14:53 AM Data returned successfully
+10/12/2020 12:14:53 AM getInfo called with iD parameter: 9
+10/12/2020 12:14:53 AM Data returned successfully
+10/12/2020 12:14:53 AM getShelfFilters called
+10/12/2020 12:14:54 AM Shelf filters returned
+10/12/2020 12:14:54 AM getCategoryFilter called
+10/12/2020 12:14:54 AM Category list returned
+
+10/12/2020 12:15:30 AM Log Writer Initialized
+10/12/2020 12:15:31 AM Attempting Log Management
+
+10/12/2020 12:15:31 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:15:31 AM Log Writer Initialized
+10/12/2020 12:15:31 AM Attempting Log Management
+
+10/12/2020 12:15:31 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:15:31 AM getCategoryFilter called
+10/12/2020 12:15:32 AM Category list returned
+10/12/2020 12:15:32 AM getShelfFilters called
+10/12/2020 12:15:32 AM Shelf filters returned
+10/12/2020 12:15:32 AM Called getData with no parameters
+10/12/2020 12:15:32 AM No filter applied
+10/12/2020 12:15:32 AM Successfully returned
+10/12/2020 12:15:32 AM getInfo called with iD parameter: 9
+10/12/2020 12:15:32 AM Data returned successfully
+10/12/2020 12:15:33 AM getInfo called with iD parameter: 9
+10/12/2020 12:15:33 AM Data returned successfully
+10/12/2020 12:15:33 AM getShelfFilters called
+10/12/2020 12:15:33 AM Shelf filters returned
+10/12/2020 12:15:33 AM getCategoryFilter called
+10/12/2020 12:15:33 AM Category list returned
+
+10/12/2020 12:15:38 AM Log Writer Initialized
+10/12/2020 12:15:38 AM Attempting Log Management
+
+10/12/2020 12:15:38 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 12:16:12 AM Log Writer Initialized
+10/12/2020 12:16:12 AM Attempting Log Management
+
+10/12/2020 12:16:12 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:16:12 AM Log Writer Initialized
+10/12/2020 12:16:12 AM Attempting Log Management
+
+10/12/2020 12:16:12 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:16:12 AM getCategoryFilter called
+10/12/2020 12:16:12 AM Category list returned
+10/12/2020 12:16:12 AM getShelfFilters called
+10/12/2020 12:16:12 AM Shelf filters returned
+10/12/2020 12:16:12 AM Called getData with no parameters
+10/12/2020 12:16:12 AM No filter applied
+10/12/2020 12:16:12 AM Successfully returned
+10/12/2020 12:16:12 AM getInfo called with iD parameter: 9
+10/12/2020 12:16:12 AM Data returned successfully
+10/12/2020 12:16:13 AM getInfo called with iD parameter: 9
+10/12/2020 12:16:13 AM Data returned successfully
+10/12/2020 12:16:13 AM getShelfFilters called
+10/12/2020 12:16:13 AM Shelf filters returned
+10/12/2020 12:16:13 AM getCategoryFilter called
+10/12/2020 12:16:13 AM Category list returned
+
+10/12/2020 12:16:15 AM Log Writer Initialized
+10/12/2020 12:16:15 AM Attempting Log Management
+
+10/12/2020 12:16:15 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+10/12/2020 12:16:25 AM Return checkoutID for bookID 9
+10/12/2020 12:16:25 AM Successfully returned
+
+10/12/2020 12:17:25 AM Log Writer Initialized
+10/12/2020 12:17:25 AM Attempting Log Management
+
+10/12/2020 12:17:25 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:17:25 AM Log Writer Initialized
+10/12/2020 12:17:25 AM Attempting Log Management
+
+10/12/2020 12:17:25 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:17:26 AM getCategoryFilter called
+10/12/2020 12:17:26 AM Category list returned
+10/12/2020 12:17:26 AM getShelfFilters called
+10/12/2020 12:17:26 AM Shelf filters returned
+10/12/2020 12:17:26 AM Called getData with no parameters
+10/12/2020 12:17:26 AM No filter applied
+10/12/2020 12:17:26 AM Successfully returned
+10/12/2020 12:17:26 AM getInfo called with iD parameter: 9
+10/12/2020 12:17:26 AM Data returned successfully
+10/12/2020 12:17:27 AM getInfo called with iD parameter: 9
+10/12/2020 12:17:27 AM Data returned successfully
+10/12/2020 12:17:27 AM getShelfFilters called
+10/12/2020 12:17:27 AM Shelf filters returned
+10/12/2020 12:17:27 AM getCategoryFilter called
+10/12/2020 12:17:27 AM Category list returned
+10/12/2020 12:17:48 AM Called getData with no parameters
+10/12/2020 12:17:48 AM No filter applied
+10/12/2020 12:17:48 AM Successfully returned
+10/12/2020 12:17:49 AM getInfo called with iD parameter: 9
+10/12/2020 12:17:49 AM Data returned successfully
+10/12/2020 12:17:49 AM getShelfFilters called
+10/12/2020 12:17:49 AM Shelf filters returned
+10/12/2020 12:17:49 AM getCategoryFilter called
+10/12/2020 12:17:49 AM Category list returned
+10/12/2020 12:18:00 AM Called getData with no parameters
+10/12/2020 12:18:00 AM No filter applied
+10/12/2020 12:18:00 AM Successfully returned
+10/12/2020 12:18:00 AM getInfo called with iD parameter: 9
+10/12/2020 12:18:00 AM Data returned successfully
+10/12/2020 12:18:00 AM getShelfFilters called
+10/12/2020 12:18:01 AM Shelf filters returned
+10/12/2020 12:18:01 AM getCategoryFilter called
+10/12/2020 12:18:01 AM Category list returned
+
+10/12/2020 12:19:38 AM Log Writer Initialized
+10/12/2020 12:19:38 AM Attempting Log Management
+
+10/12/2020 12:19:38 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+10/12/2020 12:19:40 AM Return checkoutID for bookID 9
+10/12/2020 12:19:40 AM Successfully returned
+
+10/12/2020 12:20:48 AM Log Writer Initialized
+10/12/2020 12:20:48 AM Attempting Log Management
+
+10/12/2020 12:20:48 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:20:48 AM Log Writer Initialized
+10/12/2020 12:20:48 AM Attempting Log Management
+
+10/12/2020 12:20:48 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:20:48 AM getCategoryFilter called
+10/12/2020 12:20:49 AM Category list returned
+10/12/2020 12:20:49 AM getShelfFilters called
+10/12/2020 12:20:49 AM Shelf filters returned
+10/12/2020 12:20:49 AM Called getData with no parameters
+10/12/2020 12:20:49 AM No filter applied
+10/12/2020 12:20:49 AM Successfully returned
+10/12/2020 12:20:49 AM getInfo called with iD parameter: 9
+10/12/2020 12:20:49 AM Data returned successfully
+10/12/2020 12:20:50 AM getInfo called with iD parameter: 9
+10/12/2020 12:20:50 AM Data returned successfully
+10/12/2020 12:20:50 AM getShelfFilters called
+10/12/2020 12:20:50 AM Shelf filters returned
+10/12/2020 12:20:50 AM getCategoryFilter called
+10/12/2020 12:20:50 AM Category list returned
+10/12/2020 12:20:56 AM getInfo called with iD parameter: 1
+10/12/2020 12:20:56 AM Data returned successfully
+10/12/2020 12:20:57 AM getInfo called with iD parameter: 9
+10/12/2020 12:20:58 AM Data returned successfully
+10/12/2020 12:21:21 AM Called getData with no parameters
+10/12/2020 12:21:21 AM No filter applied
+10/12/2020 12:21:21 AM Successfully returned
+10/12/2020 12:21:21 AM getInfo called with iD parameter: 9
+10/12/2020 12:21:21 AM Data returned successfully
+10/12/2020 12:21:21 AM getShelfFilters called
+10/12/2020 12:21:21 AM Shelf filters returned
+10/12/2020 12:21:21 AM getCategoryFilter called
+10/12/2020 12:21:22 AM Category list returned
+10/12/2020 12:21:45 AM getInfo called with iD parameter: 1
+10/12/2020 12:21:45 AM Data returned successfully
+10/12/2020 12:21:46 AM getInfo called with iD parameter: 9
+10/12/2020 12:21:46 AM Data returned successfully
+10/12/2020 12:23:39 AM Called getData with no parameters
+10/12/2020 12:23:39 AM No filter applied
+10/12/2020 12:23:39 AM Successfully returned
+10/12/2020 12:23:39 AM getInfo called with iD parameter: 9
+10/12/2020 12:23:39 AM Data returned successfully
+10/12/2020 12:23:39 AM getShelfFilters called
+10/12/2020 12:23:39 AM Shelf filters returned
+10/12/2020 12:23:39 AM getCategoryFilter called
+10/12/2020 12:23:39 AM Category list returned
+
+10/12/2020 12:26:18 AM Log Writer Initialized
+10/12/2020 12:26:18 AM Attempting Log Management
+
+10/12/2020 12:26:18 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:26:18 AM Log Writer Initialized
+10/12/2020 12:26:18 AM Attempting Log Management
+
+10/12/2020 12:26:18 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:26:18 AM getCategoryFilter called
+10/12/2020 12:26:19 AM Category list returned
+10/12/2020 12:26:19 AM getShelfFilters called
+10/12/2020 12:26:19 AM Shelf filters returned
+10/12/2020 12:26:19 AM Called getData with no parameters
+10/12/2020 12:26:19 AM No filter applied
+10/12/2020 12:26:19 AM Successfully returned
+10/12/2020 12:26:19 AM getInfo called with iD parameter: 9
+10/12/2020 12:26:19 AM Data returned successfully
+10/12/2020 12:26:19 AM getInfo called with iD parameter: 9
+10/12/2020 12:26:20 AM Data returned successfully
+10/12/2020 12:26:20 AM getShelfFilters called
+10/12/2020 12:26:20 AM Shelf filters returned
+10/12/2020 12:26:20 AM getCategoryFilter called
+10/12/2020 12:26:20 AM Category list returned
+10/12/2020 12:26:32 AM Called getData with no parameters
+10/12/2020 12:26:32 AM No filter applied
+10/12/2020 12:26:32 AM Successfully returned
+10/12/2020 12:26:32 AM getInfo called with iD parameter: 9
+10/12/2020 12:26:32 AM Data returned successfully
+10/12/2020 12:26:32 AM getShelfFilters called
+10/12/2020 12:26:33 AM Shelf filters returned
+10/12/2020 12:26:33 AM getCategoryFilter called
+10/12/2020 12:26:33 AM Category list returned
+
+10/12/2020 12:27:12 AM Log Writer Initialized
+10/12/2020 12:27:12 AM Attempting Log Management
+
+10/12/2020 12:27:12 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:27:12 AM Log Writer Initialized
+10/12/2020 12:27:12 AM Attempting Log Management
+
+10/12/2020 12:27:12 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:27:12 AM getCategoryFilter called
+10/12/2020 12:27:12 AM Category list returned
+10/12/2020 12:27:12 AM getShelfFilters called
+10/12/2020 12:27:12 AM Shelf filters returned
+10/12/2020 12:27:12 AM Called getData with no parameters
+10/12/2020 12:27:12 AM No filter applied
+10/12/2020 12:27:12 AM Successfully returned
+10/12/2020 12:27:12 AM getInfo called with iD parameter: 9
+10/12/2020 12:27:12 AM Data returned successfully
+10/12/2020 12:27:13 AM getInfo called with iD parameter: 9
+10/12/2020 12:27:13 AM Data returned successfully
+10/12/2020 12:27:13 AM getShelfFilters called
+10/12/2020 12:27:13 AM Shelf filters returned
+10/12/2020 12:27:13 AM getCategoryFilter called
+10/12/2020 12:27:13 AM Category list returned
+
+10/12/2020 12:27:14 AM Log Writer Initialized
+10/12/2020 12:27:14 AM Attempting Log Management
+
+10/12/2020 12:27:14 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+10/12/2020 12:27:15 AM Return checkoutID for bookID 9
+10/12/2020 12:27:15 AM Successfully returned
+10/12/2020 12:27:17 AM Return checkout for checkoutID 9
+10/12/2020 12:27:17 AM Failed. Error: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+
+10/12/2020 12:29:29 AM Log Writer Initialized
+10/12/2020 12:29:29 AM Attempting Log Management
+
+10/12/2020 12:29:29 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:29:29 AM Log Writer Initialized
+10/12/2020 12:29:29 AM Attempting Log Management
+
+10/12/2020 12:29:29 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:29:29 AM getCategoryFilter called
+10/12/2020 12:29:29 AM Category list returned
+10/12/2020 12:29:29 AM getShelfFilters called
+10/12/2020 12:29:29 AM Shelf filters returned
+10/12/2020 12:29:29 AM Called getData with no parameters
+10/12/2020 12:29:29 AM No filter applied
+10/12/2020 12:29:30 AM Successfully returned
+10/12/2020 12:29:30 AM getInfo called with iD parameter: 9
+10/12/2020 12:29:30 AM Data returned successfully
+10/12/2020 12:29:30 AM getInfo called with iD parameter: 9
+10/12/2020 12:29:30 AM Data returned successfully
+10/12/2020 12:29:30 AM getShelfFilters called
+10/12/2020 12:29:30 AM Shelf filters returned
+10/12/2020 12:29:30 AM getCategoryFilter called
+10/12/2020 12:29:31 AM Category list returned
+
+10/12/2020 12:29:32 AM Log Writer Initialized
+10/12/2020 12:29:32 AM Attempting Log Management
+
+10/12/2020 12:29:32 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+10/12/2020 12:29:33 AM Return checkoutID for bookID 9
+10/12/2020 12:29:33 AM Successfully returned
+10/12/2020 12:29:34 AM Return checkout for checkoutID 9
+10/12/2020 12:29:35 AM Failed. Error: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+
+10/12/2020 12:33:38 AM Log Writer Initialized
+10/12/2020 12:33:38 AM Attempting Log Management
+
+10/12/2020 12:33:38 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:33:38 AM Log Writer Initialized
+10/12/2020 12:33:38 AM Attempting Log Management
+
+10/12/2020 12:33:38 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:33:38 AM getCategoryFilter called
+10/12/2020 12:33:38 AM Category list returned
+10/12/2020 12:33:38 AM getShelfFilters called
+10/12/2020 12:33:38 AM Shelf filters returned
+10/12/2020 12:33:38 AM Called getData with no parameters
+10/12/2020 12:33:38 AM No filter applied
+10/12/2020 12:33:38 AM Successfully returned
+10/12/2020 12:33:38 AM getInfo called with iD parameter: 9
+10/12/2020 12:33:38 AM Data returned successfully
+10/12/2020 12:33:39 AM getInfo called with iD parameter: 9
+10/12/2020 12:33:39 AM Data returned successfully
+10/12/2020 12:33:39 AM getShelfFilters called
+10/12/2020 12:33:39 AM Shelf filters returned
+10/12/2020 12:33:39 AM getCategoryFilter called
+10/12/2020 12:33:39 AM Category list returned
+10/12/2020 12:33:52 AM Called getData with no parameters
+10/12/2020 12:33:52 AM No filter applied
+10/12/2020 12:33:52 AM Successfully returned
+10/12/2020 12:33:52 AM getInfo called with iD parameter: 9
+10/12/2020 12:33:53 AM Data returned successfully
+10/12/2020 12:33:53 AM getShelfFilters called
+10/12/2020 12:33:53 AM Shelf filters returned
+10/12/2020 12:33:53 AM getCategoryFilter called
+10/12/2020 12:33:53 AM Category list returned
+
+10/12/2020 12:35:52 AM Log Writer Initialized
+10/12/2020 12:35:52 AM Attempting Log Management
+
+10/12/2020 12:35:52 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:35:52 AM Log Writer Initialized
+10/12/2020 12:35:52 AM Attempting Log Management
+
+10/12/2020 12:35:52 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:35:52 AM getCategoryFilter called
+10/12/2020 12:35:53 AM Category list returned
+10/12/2020 12:35:53 AM getShelfFilters called
+10/12/2020 12:35:53 AM Shelf filters returned
+10/12/2020 12:35:53 AM Called getData with no parameters
+10/12/2020 12:35:53 AM No filter applied
+10/12/2020 12:35:53 AM Successfully returned
+10/12/2020 12:35:53 AM getInfo called with iD parameter: 9
+10/12/2020 12:35:53 AM Data returned successfully
+10/12/2020 12:35:54 AM getInfo called with iD parameter: 9
+10/12/2020 12:35:54 AM Data returned successfully
+10/12/2020 12:35:54 AM getShelfFilters called
+10/12/2020 12:35:54 AM Shelf filters returned
+10/12/2020 12:35:54 AM getCategoryFilter called
+10/12/2020 12:35:54 AM Category list returned
+10/12/2020 12:36:00 AM Called getData with no parameters
+10/12/2020 12:36:00 AM No filter applied
+10/12/2020 12:36:00 AM Successfully returned
+10/12/2020 12:36:01 AM getInfo called with iD parameter: 9
+10/12/2020 12:36:01 AM Data returned successfully
+10/12/2020 12:36:01 AM getShelfFilters called
+10/12/2020 12:36:01 AM Shelf filters returned
+10/12/2020 12:36:01 AM getCategoryFilter called
+10/12/2020 12:36:01 AM Category list returned
+
+10/12/2020 12:37:39 AM Log Writer Initialized
+10/12/2020 12:37:39 AM Attempting Log Management
+
+10/12/2020 12:37:39 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:37:39 AM Log Writer Initialized
+10/12/2020 12:37:39 AM Attempting Log Management
+
+10/12/2020 12:37:39 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:37:39 AM getCategoryFilter called
+10/12/2020 12:37:39 AM Category list returned
+10/12/2020 12:37:39 AM getShelfFilters called
+10/12/2020 12:37:39 AM Shelf filters returned
+10/12/2020 12:37:39 AM Called getData with no parameters
+10/12/2020 12:37:39 AM No filter applied
+10/12/2020 12:37:40 AM Successfully returned
+10/12/2020 12:37:40 AM getInfo called with iD parameter: 9
+10/12/2020 12:37:40 AM Data returned successfully
+10/12/2020 12:37:40 AM getInfo called with iD parameter: 9
+10/12/2020 12:37:40 AM Data returned successfully
+10/12/2020 12:37:40 AM getShelfFilters called
+10/12/2020 12:37:40 AM Shelf filters returned
+10/12/2020 12:37:40 AM getCategoryFilter called
+10/12/2020 12:37:41 AM Category list returned
+10/12/2020 12:37:47 AM Called getData with no parameters
+10/12/2020 12:37:47 AM No filter applied
+10/12/2020 12:37:47 AM Successfully returned
+10/12/2020 12:37:47 AM getInfo called with iD parameter: 9
+10/12/2020 12:37:47 AM Data returned successfully
+10/12/2020 12:37:47 AM getShelfFilters called
+10/12/2020 12:37:47 AM Shelf filters returned
+10/12/2020 12:37:47 AM getCategoryFilter called
+10/12/2020 12:37:48 AM Category list returned
+10/12/2020 12:37:53 AM Called getData with no parameters
+10/12/2020 12:37:53 AM No filter applied
+10/12/2020 12:37:53 AM Successfully returned
+10/12/2020 12:37:53 AM getInfo called with iD parameter: 9
+10/12/2020 12:37:53 AM Data returned successfully
+10/12/2020 12:37:53 AM getShelfFilters called
+10/12/2020 12:37:54 AM Shelf filters returned
+10/12/2020 12:37:54 AM getCategoryFilter called
+10/12/2020 12:37:54 AM Category list returned
+
+10/12/2020 12:39:50 AM Log Writer Initialized
+10/12/2020 12:39:50 AM Attempting Log Management
+
+10/12/2020 12:39:50 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:39:50 AM Log Writer Initialized
+10/12/2020 12:39:50 AM Attempting Log Management
+
+10/12/2020 12:39:50 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:39:50 AM getCategoryFilter called
+10/12/2020 12:39:51 AM Category list returned
+10/12/2020 12:39:51 AM getShelfFilters called
+10/12/2020 12:39:51 AM Shelf filters returned
+10/12/2020 12:39:51 AM Called getData with no parameters
+10/12/2020 12:39:51 AM No filter applied
+
+10/12/2020 12:40:13 AM Log Writer Initialized
+10/12/2020 12:40:13 AM Attempting Log Management
+
+10/12/2020 12:40:14 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:40:14 AM Log Writer Initialized
+10/12/2020 12:40:14 AM Attempting Log Management
+
+10/12/2020 12:40:14 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:40:14 AM getCategoryFilter called
+10/12/2020 12:40:14 AM Category list returned
+10/12/2020 12:40:14 AM getShelfFilters called
+10/12/2020 12:40:14 AM Shelf filters returned
+10/12/2020 12:40:14 AM Called getData with no parameters
+10/12/2020 12:40:14 AM No filter applied
+10/12/2020 12:40:14 AM Successfully returned
+10/12/2020 12:40:14 AM getInfo called with iD parameter: 9
+10/12/2020 12:40:14 AM Data returned successfully
+10/12/2020 12:40:15 AM getInfo called with iD parameter: 9
+10/12/2020 12:40:15 AM Data returned successfully
+10/12/2020 12:40:15 AM getShelfFilters called
+10/12/2020 12:40:15 AM Shelf filters returned
+10/12/2020 12:40:15 AM getCategoryFilter called
+10/12/2020 12:40:15 AM Category list returned
+10/12/2020 12:40:21 AM Called getData with no parameters
+10/12/2020 12:40:21 AM No filter applied
+10/12/2020 12:40:21 AM Successfully returned
+10/12/2020 12:40:22 AM getInfo called with iD parameter: 9
+10/12/2020 12:40:22 AM Data returned successfully
+10/12/2020 12:40:22 AM getShelfFilters called
+10/12/2020 12:40:22 AM Shelf filters returned
+10/12/2020 12:40:22 AM getCategoryFilter called
+10/12/2020 12:40:22 AM Category list returned
+
+10/12/2020 12:51:45 AM Log Writer Initialized
+10/12/2020 12:51:45 AM Attempting Log Management
+
+10/12/2020 12:51:45 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 12:51:45 AM Log Writer Initialized
+10/12/2020 12:51:45 AM Attempting Log Management
+
+10/12/2020 12:51:45 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 12:51:45 AM getCategoryFilter called
+10/12/2020 12:51:46 AM Category list returned
+10/12/2020 12:51:46 AM getShelfFilters called
+10/12/2020 12:51:46 AM Shelf filters returned
+10/12/2020 12:51:46 AM Called getData with no parameters
+10/12/2020 12:51:46 AM No filter applied
+10/12/2020 12:51:46 AM Successfully returned
+10/12/2020 12:51:46 AM getInfo called with iD parameter: 9
+10/12/2020 12:51:46 AM Data returned successfully
+10/12/2020 12:51:47 AM getInfo called with iD parameter: 9
+10/12/2020 12:51:47 AM Data returned successfully
+10/12/2020 12:51:47 AM getShelfFilters called
+10/12/2020 12:51:47 AM Shelf filters returned
+10/12/2020 12:51:47 AM getCategoryFilter called
+10/12/2020 12:51:47 AM Category list returned
+10/12/2020 12:51:53 AM Called getData with no parameters
+10/12/2020 12:51:53 AM No filter applied
+10/12/2020 12:51:53 AM Successfully returned
+10/12/2020 12:51:54 AM getInfo called with iD parameter: 9
+10/12/2020 12:51:54 AM Data returned successfully
+10/12/2020 12:51:54 AM getShelfFilters called
+10/12/2020 12:51:54 AM Shelf filters returned
+10/12/2020 12:51:54 AM getCategoryFilter called
+10/12/2020 12:51:54 AM Category list returned
+10/12/2020 12:52:05 AM getInfo called with iD parameter: 1
+10/12/2020 12:52:05 AM Data returned successfully
+10/12/2020 12:52:13 AM Filter applied 1. Term: '%z%'
+10/12/2020 12:52:13 AM Called getData with no parameters
+10/12/2020 12:52:13 AM Filter applied: Title, '%z%'
+10/12/2020 12:52:13 AM Successfully returned
+10/12/2020 12:52:13 AM getShelfFilters called
+10/12/2020 12:52:14 AM Shelf filters returned
+10/12/2020 12:52:14 AM getCategoryFilter called
+10/12/2020 12:52:14 AM Category list returned
+10/12/2020 12:52:16 AM Filter removed
+10/12/2020 12:52:16 AM Called getData with no parameters
+10/12/2020 12:52:16 AM No filter applied
+10/12/2020 12:52:16 AM Successfully returned
+10/12/2020 12:52:16 AM getInfo called with iD parameter: 9
+10/12/2020 12:52:16 AM Data returned successfully
+10/12/2020 12:52:17 AM getShelfFilters called
+10/12/2020 12:52:17 AM Shelf filters returned
+10/12/2020 12:52:17 AM getCategoryFilter called
+10/12/2020 12:52:17 AM Category list returned
+10/12/2020 12:52:17 AM Filter removed
+10/12/2020 12:52:17 AM Called getData with no parameters
+10/12/2020 12:52:17 AM No filter applied
+10/12/2020 12:52:17 AM Successfully returned
+10/12/2020 12:52:17 AM getInfo called with iD parameter: 9
+10/12/2020 12:52:17 AM Data returned successfully
+10/12/2020 12:52:17 AM getShelfFilters called
+10/12/2020 12:52:17 AM Shelf filters returned
+10/12/2020 12:52:17 AM getCategoryFilter called
+10/12/2020 12:52:18 AM Category list returned
+10/12/2020 12:52:34 AM getInfo called with iD parameter: 8
+10/12/2020 12:52:34 AM Data returned successfully
+10/12/2020 12:52:46 AM getInfo called with iD parameter: 6
+10/12/2020 12:52:46 AM Data returned successfully
+10/12/2020 12:53:04 AM Called getData with no parameters
+10/12/2020 12:53:04 AM No filter applied
+10/12/2020 12:53:04 AM Successfully returned
+10/12/2020 12:53:04 AM getInfo called with iD parameter: 9
+10/12/2020 12:53:04 AM Data returned successfully
+10/12/2020 12:53:04 AM getShelfFilters called
+10/12/2020 12:53:04 AM Shelf filters returned
+10/12/2020 12:53:05 AM getCategoryFilter called
+10/12/2020 12:53:05 AM Category list returned
+10/12/2020 12:53:07 AM getInfo called with iD parameter: 6
+10/12/2020 12:53:07 AM Data returned successfully
+10/12/2020 12:53:14 AM Called getData with no parameters
+10/12/2020 12:53:14 AM No filter applied
+10/12/2020 12:53:14 AM Successfully returned
+10/12/2020 12:53:15 AM getInfo called with iD parameter: 9
+10/12/2020 12:53:15 AM Data returned successfully
+10/12/2020 12:53:15 AM getShelfFilters called
+10/12/2020 12:53:15 AM Shelf filters returned
+10/12/2020 12:53:15 AM getCategoryFilter called
+10/12/2020 12:53:15 AM Category list returned
+10/12/2020 12:53:16 AM getInfo called with iD parameter: 6
+10/12/2020 12:53:16 AM Data returned successfully
+10/12/2020 12:53:54 AM getInfo called with iD parameter: 1
+10/12/2020 12:53:54 AM Data returned successfully
+10/12/2020 12:53:56 AM getInfo called with iD parameter: 2
+10/12/2020 12:53:56 AM Data returned successfully
+10/12/2020 12:53:57 AM getInfo called with iD parameter: 3
+10/12/2020 12:53:57 AM Data returned successfully
+10/12/2020 12:53:58 AM getInfo called with iD parameter: 4
+10/12/2020 12:53:58 AM Data returned successfully
+10/12/2020 12:53:59 AM getInfo called with iD parameter: 5
+10/12/2020 12:53:59 AM Data returned successfully
+
+10/12/2020 12:54:20 AM Log Writer Initialized
+10/12/2020 12:54:20 AM Attempting Log Management
+10/12/2020 12:54:20 AM Login initialized with dBaseLocation: LMS.accdb, Table: Members
+10/12/2020 12:54:20 AM getData called with no parameters
+10/12/2020 12:54:20 AM Data returned
+10/12/2020 12:54:20 AM getInfo called with iD 1
+10/12/2020 12:54:20 AM Data returned
+10/12/2020 12:54:20 AM getInfo called with iD 1
+10/12/2020 12:54:20 AM Data returned
+10/12/2020 12:54:23 AM getInfo called with iD 2
+10/12/2020 12:54:23 AM Data returned
+10/12/2020 12:54:26 AM getInfo called with iD 3
+10/12/2020 12:54:26 AM Data returned
+
+10/12/2020 12:54:26 AM Log Writer Initialized
+10/12/2020 12:54:26 AM Attempting Log Management
+
+10/12/2020 12:54:26 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 01:01:33 AM Log Writer Initialized
+10/12/2020 01:01:33 AM Attempting Log Management
+
+10/12/2020 01:01:33 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:01:33 AM Log Writer Initialized
+10/12/2020 01:01:33 AM Attempting Log Management
+
+10/12/2020 01:01:33 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:01:33 AM getCategoryFilter called
+10/12/2020 01:01:33 AM Category list returned
+10/12/2020 01:01:33 AM getShelfFilters called
+10/12/2020 01:01:34 AM Shelf filters returned
+10/12/2020 01:01:34 AM Called getData with no parameters
+10/12/2020 01:01:34 AM No filter applied
+10/12/2020 01:01:34 AM Successfully returned
+10/12/2020 01:01:34 AM getInfo called with iD parameter: 9
+10/12/2020 01:01:34 AM Data returned successfully
+10/12/2020 01:01:34 AM getInfo called with iD parameter: 9
+10/12/2020 01:01:35 AM Data returned successfully
+10/12/2020 01:01:35 AM getShelfFilters called
+10/12/2020 01:01:35 AM Shelf filters returned
+10/12/2020 01:01:35 AM getCategoryFilter called
+10/12/2020 01:01:35 AM Category list returned
+
+10/12/2020 01:01:36 AM Log Writer Initialized
+10/12/2020 01:01:36 AM Attempting Log Management
+10/12/2020 01:01:36 AM Login initialized with dBaseLocation: LMS.accdb, Table: Members
+10/12/2020 01:01:36 AM getData called with no parameters
+10/12/2020 01:01:36 AM Data returned
+10/12/2020 01:01:36 AM getInfo called with iD 1
+10/12/2020 01:01:36 AM Data returned
+10/12/2020 01:01:37 AM getInfo called with iD 1
+10/12/2020 01:01:37 AM Data returned
+
+10/12/2020 01:01:37 AM Log Writer Initialized
+10/12/2020 01:01:37 AM Attempting Log Management
+
+10/12/2020 01:01:37 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 01:05:22 AM Log Writer Initialized
+10/12/2020 01:05:22 AM Attempting Log Management
+
+10/12/2020 01:05:22 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:05:22 AM Log Writer Initialized
+10/12/2020 01:05:22 AM Attempting Log Management
+
+10/12/2020 01:05:22 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:05:22 AM getCategoryFilter called
+10/12/2020 01:05:23 AM Category list returned
+10/12/2020 01:05:23 AM getShelfFilters called
+10/12/2020 01:05:23 AM Shelf filters returned
+10/12/2020 01:05:23 AM Called getData with no parameters
+10/12/2020 01:05:23 AM No filter applied
+10/12/2020 01:05:23 AM Successfully returned
+10/12/2020 01:05:23 AM getInfo called with iD parameter: 9
+10/12/2020 01:05:23 AM Data returned successfully
+10/12/2020 01:05:24 AM getInfo called with iD parameter: 9
+10/12/2020 01:05:24 AM Data returned successfully
+10/12/2020 01:05:24 AM getShelfFilters called
+10/12/2020 01:05:24 AM Shelf filters returned
+10/12/2020 01:05:24 AM getCategoryFilter called
+10/12/2020 01:05:24 AM Category list returned
+
+10/12/2020 01:06:05 AM Log Writer Initialized
+10/12/2020 01:06:05 AM Attempting Log Management
+
+10/12/2020 01:06:05 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:06:05 AM Log Writer Initialized
+10/12/2020 01:06:05 AM Attempting Log Management
+
+10/12/2020 01:06:05 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:06:05 AM getCategoryFilter called
+10/12/2020 01:06:05 AM Category list returned
+10/12/2020 01:06:05 AM getShelfFilters called
+10/12/2020 01:06:05 AM Shelf filters returned
+10/12/2020 01:06:05 AM Called getData with no parameters
+10/12/2020 01:06:05 AM No filter applied
+10/12/2020 01:06:05 AM Successfully returned
+10/12/2020 01:06:05 AM getInfo called with iD parameter: 9
+10/12/2020 01:06:06 AM Data returned successfully
+10/12/2020 01:06:06 AM getInfo called with iD parameter: 9
+10/12/2020 01:06:06 AM Data returned successfully
+10/12/2020 01:06:06 AM getShelfFilters called
+10/12/2020 01:06:06 AM Shelf filters returned
+10/12/2020 01:06:06 AM getCategoryFilter called
+10/12/2020 01:06:07 AM Category list returned
+
+10/12/2020 01:06:15 AM Log Writer Initialized
+10/12/2020 01:06:15 AM Attempting Log Management
+
+10/12/2020 01:06:15 AM Login initialized with dBaseLocation: librarianDBase.enc
+10/12/2020 01:06:15 AM allUsers called
+10/12/2020 01:06:15 AM Data returned
+10/12/2020 01:06:21 AM loginUser called for iD: 0
+10/12/2020 01:06:21 AM Successfully logged in
+10/12/2020 01:06:21 AM getUName called with iD 0
+10/12/2020 01:06:21 AM Successfully returend
+
+10/12/2020 01:06:50 AM Log Writer Initialized
+10/12/2020 01:06:50 AM Attempting Log Management
+
+10/12/2020 01:06:50 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:06:50 AM Log Writer Initialized
+10/12/2020 01:06:50 AM Attempting Log Management
+
+10/12/2020 01:06:50 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:06:50 AM getCategoryFilter called
+10/12/2020 01:06:50 AM Category list returned
+10/12/2020 01:06:50 AM getShelfFilters called
+10/12/2020 01:06:50 AM Shelf filters returned
+10/12/2020 01:06:50 AM Called getData with no parameters
+10/12/2020 01:06:50 AM No filter applied
+10/12/2020 01:06:50 AM Successfully returned
+10/12/2020 01:06:50 AM getInfo called with iD parameter: 9
+10/12/2020 01:06:51 AM Data returned successfully
+10/12/2020 01:06:51 AM getInfo called with iD parameter: 9
+10/12/2020 01:06:51 AM Data returned successfully
+10/12/2020 01:06:51 AM getShelfFilters called
+10/12/2020 01:06:51 AM Shelf filters returned
+10/12/2020 01:06:51 AM getCategoryFilter called
+10/12/2020 01:06:51 AM Category list returned
+10/12/2020 01:07:07 AM Filter removed
+10/12/2020 01:07:07 AM Called getData with no parameters
+10/12/2020 01:07:07 AM No filter applied
+10/12/2020 01:07:07 AM Successfully returned
+10/12/2020 01:07:07 AM getInfo called with iD parameter: 9
+10/12/2020 01:07:07 AM Data returned successfully
+10/12/2020 01:07:07 AM getShelfFilters called
+10/12/2020 01:07:07 AM Shelf filters returned
+10/12/2020 01:07:07 AM getCategoryFilter called
+10/12/2020 01:07:07 AM Category list returned
+
+10/12/2020 01:07:37 AM Log Writer Initialized
+10/12/2020 01:07:37 AM Attempting Log Management
+
+10/12/2020 01:07:37 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:07:37 AM Log Writer Initialized
+10/12/2020 01:07:37 AM Attempting Log Management
+
+10/12/2020 01:07:37 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:07:37 AM getCategoryFilter called
+10/12/2020 01:07:38 AM Category list returned
+10/12/2020 01:07:38 AM getShelfFilters called
+10/12/2020 01:07:38 AM Shelf filters returned
+10/12/2020 01:07:38 AM Called getData with no parameters
+10/12/2020 01:07:38 AM No filter applied
+10/12/2020 01:07:38 AM Successfully returned
+10/12/2020 01:07:38 AM getInfo called with iD parameter: 9
+10/12/2020 01:07:38 AM Data returned successfully
+10/12/2020 01:07:39 AM getInfo called with iD parameter: 9
+10/12/2020 01:07:39 AM Data returned successfully
+10/12/2020 01:07:39 AM getShelfFilters called
+10/12/2020 01:07:39 AM Shelf filters returned
+10/12/2020 01:07:39 AM getCategoryFilter called
+10/12/2020 01:07:39 AM Category list returned
+10/12/2020 01:07:46 AM Called getData with no parameters
+10/12/2020 01:07:46 AM No filter applied
+10/12/2020 01:07:46 AM Successfully returned
+10/12/2020 01:07:46 AM getInfo called with iD parameter: 9
+10/12/2020 01:07:46 AM Data returned successfully
+10/12/2020 01:07:47 AM getShelfFilters called
+10/12/2020 01:07:47 AM Shelf filters returned
+10/12/2020 01:07:47 AM getCategoryFilter called
+10/12/2020 01:07:47 AM Category list returned
+10/12/2020 01:08:05 AM Called getData with no parameters
+10/12/2020 01:08:05 AM No filter applied
+10/12/2020 01:08:05 AM Successfully returned
+10/12/2020 01:08:05 AM getInfo called with iD parameter: 9
+10/12/2020 01:08:05 AM Data returned successfully
+10/12/2020 01:08:05 AM getShelfFilters called
+10/12/2020 01:08:05 AM Shelf filters returned
+10/12/2020 01:08:05 AM getCategoryFilter called
+10/12/2020 01:08:05 AM Category list returned
+
+10/12/2020 01:08:28 AM Log Writer Initialized
+10/12/2020 01:08:28 AM Attempting Log Management
+
+10/12/2020 01:08:28 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:08:28 AM Log Writer Initialized
+10/12/2020 01:08:28 AM Attempting Log Management
+
+10/12/2020 01:08:28 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:08:29 AM getCategoryFilter called
+10/12/2020 01:08:29 AM Category list returned
+10/12/2020 01:08:29 AM getShelfFilters called
+10/12/2020 01:08:29 AM Shelf filters returned
+10/12/2020 01:08:29 AM Called getData with no parameters
+10/12/2020 01:08:29 AM No filter applied
+10/12/2020 01:08:29 AM Successfully returned
+10/12/2020 01:08:29 AM getInfo called with iD parameter: 9
+10/12/2020 01:08:29 AM Data returned successfully
+10/12/2020 01:08:30 AM getInfo called with iD parameter: 9
+10/12/2020 01:08:30 AM Data returned successfully
+10/12/2020 01:08:30 AM getShelfFilters called
+10/12/2020 01:08:30 AM Shelf filters returned
+10/12/2020 01:08:30 AM getCategoryFilter called
+10/12/2020 01:08:30 AM Category list returned
+10/12/2020 01:08:36 AM Called getData with no parameters
+10/12/2020 01:08:36 AM No filter applied
+10/12/2020 01:08:36 AM Successfully returned
+10/12/2020 01:08:36 AM getInfo called with iD parameter: 9
+10/12/2020 01:08:37 AM Data returned successfully
+10/12/2020 01:08:37 AM getShelfFilters called
+10/12/2020 01:08:37 AM Shelf filters returned
+10/12/2020 01:08:37 AM getCategoryFilter called
+10/12/2020 01:08:37 AM Category list returned
+
+10/12/2020 01:08:45 AM Log Writer Initialized
+10/12/2020 01:08:45 AM Attempting Log Management
+
+10/12/2020 01:08:45 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:08:45 AM Log Writer Initialized
+10/12/2020 01:08:45 AM Attempting Log Management
+
+10/12/2020 01:08:45 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:08:45 AM getCategoryFilter called
+10/12/2020 01:08:46 AM Category list returned
+10/12/2020 01:08:46 AM getShelfFilters called
+10/12/2020 01:08:46 AM Shelf filters returned
+10/12/2020 01:08:46 AM Called getData with no parameters
+10/12/2020 01:08:46 AM No filter applied
+10/12/2020 01:08:46 AM Successfully returned
+10/12/2020 01:08:46 AM getInfo called with iD parameter: 9
+10/12/2020 01:08:46 AM Data returned successfully
+10/12/2020 01:08:47 AM getInfo called with iD parameter: 9
+10/12/2020 01:08:47 AM Data returned successfully
+10/12/2020 01:08:47 AM getShelfFilters called
+10/12/2020 01:08:47 AM Shelf filters returned
+10/12/2020 01:08:47 AM getCategoryFilter called
+10/12/2020 01:08:47 AM Category list returned
+10/12/2020 01:08:59 AM Called getData with no parameters
+10/12/2020 01:08:59 AM No filter applied
+10/12/2020 01:08:59 AM Successfully returned
+10/12/2020 01:08:59 AM getInfo called with iD parameter: 9
+10/12/2020 01:08:59 AM Data returned successfully
+10/12/2020 01:08:59 AM getShelfFilters called
+10/12/2020 01:08:59 AM Shelf filters returned
+10/12/2020 01:08:59 AM getCategoryFilter called
+10/12/2020 01:08:59 AM Category list returned
+
+10/12/2020 01:09:03 AM Log Writer Initialized
+10/12/2020 01:09:03 AM Attempting Log Management
+
+10/12/2020 01:09:03 AM Login initialized with dBaseLocation: librarianDBase.enc
+10/12/2020 01:09:03 AM allUsers called
+10/12/2020 01:09:03 AM Data returned
+10/12/2020 01:09:14 AM deleteUser called for iD 8
+10/12/2020 01:09:14 AM Successfully edited
+10/12/2020 01:09:16 AM allUsers called
+10/12/2020 01:09:16 AM Data returned
+10/12/2020 01:09:26 AM allUsers called
+10/12/2020 01:09:26 AM Data returned
+
+10/12/2020 01:09:35 AM Log Writer Initialized
+10/12/2020 01:09:35 AM Attempting Log Management
+
+10/12/2020 01:09:35 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:09:35 AM Log Writer Initialized
+10/12/2020 01:09:35 AM Attempting Log Management
+
+10/12/2020 01:09:35 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:09:35 AM getCategoryFilter called
+10/12/2020 01:09:35 AM Category list returned
+10/12/2020 01:09:35 AM getShelfFilters called
+10/12/2020 01:09:36 AM Shelf filters returned
+10/12/2020 01:09:36 AM Called getData with no parameters
+10/12/2020 01:09:36 AM No filter applied
+10/12/2020 01:09:36 AM Successfully returned
+10/12/2020 01:09:36 AM getInfo called with iD parameter: 9
+10/12/2020 01:09:36 AM Data returned successfully
+10/12/2020 01:09:36 AM getInfo called with iD parameter: 9
+10/12/2020 01:09:37 AM Data returned successfully
+10/12/2020 01:09:37 AM getShelfFilters called
+10/12/2020 01:09:37 AM Shelf filters returned
+10/12/2020 01:09:37 AM getCategoryFilter called
+10/12/2020 01:09:37 AM Category list returned
+
+10/12/2020 01:09:37 AM Log Writer Initialized
+10/12/2020 01:09:37 AM Attempting Log Management
+
+10/12/2020 01:09:37 AM Login initialized with dBaseLocation: librarianDBase.enc
+10/12/2020 01:09:37 AM allUsers called
+10/12/2020 01:09:37 AM Data returned
+
+10/12/2020 01:14:47 AM Log Writer Initialized
+10/12/2020 01:14:47 AM Attempting Log Management
+
+10/12/2020 01:14:47 AM Login initialized with dBaseLocation: librarianDBase.enc
+10/12/2020 01:15:15 AM changePWord called for iD 0
+10/12/2020 01:15:15 AM Successfully edited
+
+10/12/2020 01:15:17 AM Log Writer Initialized
+10/12/2020 01:15:17 AM Attempting Log Management
+
+10/12/2020 01:15:17 AM Login initialized with dBaseLocation: librarianDBase.enc
+10/12/2020 01:15:17 AM allUsers called
+10/12/2020 01:15:17 AM Data returned
+10/12/2020 01:15:23 AM loginUser called for iD: 0
+10/12/2020 01:15:23 AM Successfully logged in
+10/12/2020 01:15:28 AM loginUser called for iD: 0
+10/12/2020 01:15:28 AM Successfully logged in
+
+10/12/2020 01:15:33 AM Log Writer Initialized
+10/12/2020 01:15:33 AM Attempting Log Management
+
+10/12/2020 01:15:33 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:15:33 AM Log Writer Initialized
+10/12/2020 01:15:33 AM Attempting Log Management
+
+10/12/2020 01:15:33 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:15:33 AM getCategoryFilter called
+10/12/2020 01:15:33 AM Category list returned
+10/12/2020 01:15:33 AM getShelfFilters called
+10/12/2020 01:15:34 AM Shelf filters returned
+10/12/2020 01:15:34 AM Called getData with no parameters
+10/12/2020 01:15:34 AM No filter applied
+10/12/2020 01:15:34 AM Successfully returned
+10/12/2020 01:15:34 AM getInfo called with iD parameter: 9
+10/12/2020 01:15:34 AM Data returned successfully
+10/12/2020 01:15:35 AM getInfo called with iD parameter: 9
+10/12/2020 01:15:35 AM Data returned successfully
+10/12/2020 01:15:35 AM getShelfFilters called
+10/12/2020 01:15:35 AM Shelf filters returned
+10/12/2020 01:15:35 AM getCategoryFilter called
+10/12/2020 01:15:35 AM Category list returned
+
+10/12/2020 01:15:35 AM Log Writer Initialized
+10/12/2020 01:15:35 AM Attempting Log Management
+
+10/12/2020 01:15:35 AM Login initialized with dBaseLocation: librarianDBase.enc
+10/12/2020 01:15:35 AM allUsers called
+10/12/2020 01:15:35 AM Data returned
+10/12/2020 01:15:43 AM loginUser called for iD: 0
+10/12/2020 01:15:43 AM Successfully logged in
+
+10/12/2020 01:17:51 AM Log Writer Initialized
+10/12/2020 01:17:51 AM Attempting Log Management
+
+10/12/2020 01:17:51 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:17:51 AM Log Writer Initialized
+10/12/2020 01:17:51 AM Attempting Log Management
+
+10/12/2020 01:17:51 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:17:51 AM getCategoryFilter called
+10/12/2020 01:17:51 AM Category list returned
+10/12/2020 01:17:51 AM getShelfFilters called
+10/12/2020 01:17:51 AM Shelf filters returned
+10/12/2020 01:17:51 AM Called getData with no parameters
+10/12/2020 01:17:51 AM No filter applied
+10/12/2020 01:17:52 AM Successfully returned
+10/12/2020 01:17:52 AM getInfo called with iD parameter: 9
+10/12/2020 01:17:52 AM Data returned successfully
+10/12/2020 01:17:52 AM getInfo called with iD parameter: 9
+10/12/2020 01:17:52 AM Data returned successfully
+10/12/2020 01:17:52 AM getShelfFilters called
+10/12/2020 01:17:53 AM Shelf filters returned
+10/12/2020 01:17:53 AM getCategoryFilter called
+10/12/2020 01:17:53 AM Category list returned
+
+10/12/2020 01:17:53 AM Log Writer Initialized
+10/12/2020 01:17:53 AM Attempting Log Management
+
+10/12/2020 01:17:53 AM Login initialized with dBaseLocation: librarianDBase.enc
+10/12/2020 01:17:53 AM allUsers called
+10/12/2020 01:17:53 AM Data returned
+10/12/2020 01:18:00 AM loginUser called for iD: 0
+10/12/2020 01:18:00 AM Successfully logged in
+
+10/12/2020 01:18:34 AM Log Writer Initialized
+10/12/2020 01:18:34 AM Attempting Log Management
+
+10/12/2020 01:18:34 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:19:23 AM Log Writer Initialized
+10/12/2020 01:19:23 AM Attempting Log Management
+
+10/12/2020 01:19:23 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:19:23 AM Log Writer Initialized
+10/12/2020 01:19:23 AM Attempting Log Management
+
+10/12/2020 01:19:23 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:19:23 AM getCategoryFilter called
+10/12/2020 01:19:23 AM Category list returned
+10/12/2020 01:19:23 AM getShelfFilters called
+10/12/2020 01:19:23 AM Shelf filters returned
+10/12/2020 01:19:24 AM Called getData with no parameters
+10/12/2020 01:19:24 AM No filter applied
+10/12/2020 01:19:24 AM Successfully returned
+10/12/2020 01:19:24 AM getInfo called with iD parameter: 9
+10/12/2020 01:19:24 AM Data returned successfully
+10/12/2020 01:19:24 AM getInfo called with iD parameter: 9
+10/12/2020 01:19:24 AM Data returned successfully
+10/12/2020 01:19:25 AM getShelfFilters called
+10/12/2020 01:19:25 AM Shelf filters returned
+10/12/2020 01:19:25 AM getCategoryFilter called
+10/12/2020 01:19:25 AM Category list returned
+10/12/2020 01:19:32 AM Called getData with no parameters
+10/12/2020 01:19:32 AM No filter applied
+10/12/2020 01:19:33 AM Successfully returned
+10/12/2020 01:19:33 AM getInfo called with iD parameter: 9
+10/12/2020 01:19:33 AM Data returned successfully
+10/12/2020 01:19:33 AM getShelfFilters called
+10/12/2020 01:19:33 AM Shelf filters returned
+10/12/2020 01:19:33 AM getCategoryFilter called
+10/12/2020 01:19:33 AM Category list returned
+10/12/2020 01:20:10 AM Called getData with no parameters
+10/12/2020 01:20:10 AM No filter applied
+10/12/2020 01:20:10 AM Successfully returned
+10/12/2020 01:20:10 AM getInfo called with iD parameter: 9
+10/12/2020 01:20:10 AM Data returned successfully
+10/12/2020 01:20:10 AM getShelfFilters called
+10/12/2020 01:20:10 AM Shelf filters returned
+10/12/2020 01:20:10 AM getCategoryFilter called
+10/12/2020 01:20:10 AM Category list returned
+10/12/2020 01:20:36 AM Called getData with no parameters
+10/12/2020 01:20:36 AM No filter applied
+10/12/2020 01:20:36 AM Successfully returned
+10/12/2020 01:20:36 AM getInfo called with iD parameter: 9
+10/12/2020 01:20:36 AM Data returned successfully
+10/12/2020 01:20:36 AM getShelfFilters called
+10/12/2020 01:20:36 AM Shelf filters returned
+10/12/2020 01:20:36 AM getCategoryFilter called
+10/12/2020 01:20:36 AM Category list returned
+
+10/12/2020 01:54:20 AM Log Writer Initialized
+10/12/2020 01:54:20 AM Attempting Log Management
+
+10/12/2020 01:54:20 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 01:54:20 AM Log Writer Initialized
+10/12/2020 01:54:20 AM Attempting Log Management
+
+10/12/2020 01:54:20 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 01:54:20 AM getCategoryFilter called
+10/12/2020 01:54:21 AM Category list returned
+10/12/2020 01:54:21 AM getShelfFilters called
+10/12/2020 01:54:21 AM Shelf filters returned
+10/12/2020 01:54:21 AM Called getData with no parameters
+10/12/2020 01:54:21 AM No filter applied
+10/12/2020 01:54:21 AM Successfully returned
+10/12/2020 01:54:21 AM getInfo called with iD parameter: 9
+10/12/2020 01:54:22 AM Data returned successfully
+10/12/2020 01:54:22 AM getInfo called with iD parameter: 9
+10/12/2020 01:54:22 AM Data returned successfully
+10/12/2020 01:54:22 AM getShelfFilters called
+10/12/2020 01:54:22 AM Shelf filters returned
+10/12/2020 01:54:22 AM getCategoryFilter called
+10/12/2020 01:54:22 AM Category list returned
+10/12/2020 01:54:29 AM Called getData with no parameters
+10/12/2020 01:54:29 AM No filter applied
+10/12/2020 01:54:29 AM Successfully returned
+10/12/2020 01:54:29 AM getInfo called with iD parameter: 9
+10/12/2020 01:54:29 AM Data returned successfully
+10/12/2020 01:54:29 AM getShelfFilters called
+10/12/2020 01:54:29 AM Shelf filters returned
+10/12/2020 01:54:29 AM getCategoryFilter called
+10/12/2020 01:54:29 AM Category list returned
+
+10/12/2020 01:54:35 AM Log Writer Initialized
+10/12/2020 01:54:35 AM Attempting Log Management
+10/12/2020 01:54:35 AM Login initialized with dBaseLocation: LMS.accdb, Table: Members
+10/12/2020 01:54:35 AM getData called with no parameters
+10/12/2020 01:54:35 AM Data returned
+10/12/2020 01:54:35 AM getInfo called with iD 1
+10/12/2020 01:54:36 AM Data returned
+10/12/2020 01:54:36 AM getInfo called with iD 1
+10/12/2020 01:54:36 AM Data returned
+
+10/12/2020 01:54:36 AM Log Writer Initialized
+10/12/2020 01:54:36 AM Attempting Log Management
+
+10/12/2020 01:54:36 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:07:20 AM Log Writer Initialized
+10/12/2020 02:07:20 AM Attempting Log Management
+
+10/12/2020 02:07:20 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:07:20 AM Log Writer Initialized
+10/12/2020 02:07:20 AM Attempting Log Management
+
+10/12/2020 02:07:20 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:07:20 AM getCategoryFilter called
+10/12/2020 02:07:21 AM Category list returned
+10/12/2020 02:07:21 AM getShelfFilters called
+10/12/2020 02:07:21 AM Shelf filters returned
+10/12/2020 02:07:21 AM Called getData with no parameters
+10/12/2020 02:07:21 AM No filter applied
+10/12/2020 02:07:21 AM Successfully returned
+10/12/2020 02:07:21 AM getInfo called with iD parameter: 9
+10/12/2020 02:07:21 AM Data returned successfully
+10/12/2020 02:07:22 AM getInfo called with iD parameter: 9
+10/12/2020 02:07:22 AM Data returned successfully
+10/12/2020 02:07:22 AM getShelfFilters called
+10/12/2020 02:07:22 AM Shelf filters returned
+10/12/2020 02:07:22 AM getCategoryFilter called
+10/12/2020 02:07:22 AM Category list returned
+10/12/2020 02:07:28 AM Called getData with no parameters
+10/12/2020 02:07:28 AM No filter applied
+10/12/2020 02:07:28 AM Successfully returned
+10/12/2020 02:07:28 AM getInfo called with iD parameter: 9
+10/12/2020 02:07:28 AM Data returned successfully
+10/12/2020 02:07:29 AM getShelfFilters called
+10/12/2020 02:07:29 AM Shelf filters returned
+10/12/2020 02:07:29 AM getCategoryFilter called
+10/12/2020 02:07:29 AM Category list returned
+
+10/12/2020 02:13:46 AM Log Writer Initialized
+10/12/2020 02:13:46 AM Attempting Log Management
+
+10/12/2020 02:13:47 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:13:47 AM Log Writer Initialized
+10/12/2020 02:13:47 AM Attempting Log Management
+
+10/12/2020 02:13:47 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:13:47 AM getCategoryFilter called
+10/12/2020 02:13:47 AM Category list returned
+10/12/2020 02:13:47 AM getShelfFilters called
+10/12/2020 02:13:47 AM Shelf filters returned
+
+10/12/2020 02:13:47 AM Log Writer Initialized
+10/12/2020 02:13:47 AM Attempting Log Management
+
+10/12/2020 02:13:47 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:13:47 AM Log Writer Initialized
+10/12/2020 02:13:47 AM Attempting Log Management
+
+10/12/2020 02:13:47 AM report Writer Initialized
+10/12/2020 02:13:47 AM Attempting Report Management
+
+10/12/2020 02:13:47 AM Log Writer Initialized
+10/12/2020 02:13:48 AM Attempting Log Management
+10/12/2020 02:13:54 AM Application started successfully.
+10/12/2020 02:14:06 AM Returned log for 10-12-2020
+10/12/2020 02:14:07 AM Returned log for 10-12-2020
+10/12/2020 02:14:08 AM Returned log for 10-12-2020
+
+10/12/2020 02:15:33 AM Log Writer Initialized
+10/12/2020 02:15:33 AM Attempting Log Management
+
+10/12/2020 02:15:33 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:15:34 AM Log Writer Initialized
+10/12/2020 02:15:34 AM Attempting Log Management
+
+10/12/2020 02:15:34 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:15:34 AM getCategoryFilter called
+10/12/2020 02:15:34 AM Category list returned
+10/12/2020 02:15:34 AM getShelfFilters called
+10/12/2020 02:15:34 AM Shelf filters returned
+
+10/12/2020 02:15:34 AM Log Writer Initialized
+10/12/2020 02:15:34 AM Attempting Log Management
+
+10/12/2020 02:15:34 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:15:34 AM Log Writer Initialized
+10/12/2020 02:15:34 AM Attempting Log Management
+
+10/12/2020 02:15:34 AM report Writer Initialized
+10/12/2020 02:15:34 AM Attempting Report Management
+
+10/12/2020 02:15:35 AM Log Writer Initialized
+10/12/2020 02:15:35 AM Attempting Log Management
+10/12/2020 02:15:41 AM Application started successfully.
+10/12/2020 02:15:51 AM Returned log for 10-12-2020
+10/12/2020 02:16:02 AM Application exit.
+10/12/2020 02:16:02 AM ----------------------------------------------------------------------------
+
+10/12/2020 02:19:11 AM Log Writer Initialized
+10/12/2020 02:19:11 AM Attempting Log Management
+
+10/12/2020 02:19:11 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:19:11 AM Log Writer Initialized
+10/12/2020 02:19:11 AM Attempting Log Management
+
+10/12/2020 02:19:11 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:19:11 AM getCategoryFilter called
+10/12/2020 02:19:12 AM Category list returned
+10/12/2020 02:19:12 AM getShelfFilters called
+10/12/2020 02:19:12 AM Shelf filters returned
+
+10/12/2020 02:19:12 AM Log Writer Initialized
+10/12/2020 02:19:12 AM Attempting Log Management
+
+10/12/2020 02:19:12 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:19:12 AM Log Writer Initialized
+10/12/2020 02:19:12 AM Attempting Log Management
+
+10/12/2020 02:19:12 AM report Writer Initialized
+10/12/2020 02:19:12 AM Attempting Report Management
+
+10/12/2020 02:19:12 AM Log Writer Initialized
+10/12/2020 02:19:12 AM Attempting Log Management
+10/12/2020 02:19:20 AM Application started successfully.
+
+10/12/2020 02:30:29 AM Log Writer Initialized
+10/12/2020 02:30:29 AM Attempting Log Management
+
+10/12/2020 02:30:29 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:30:29 AM Log Writer Initialized
+10/12/2020 02:30:29 AM Attempting Log Management
+
+10/12/2020 02:30:29 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:30:30 AM getCategoryFilter called
+10/12/2020 02:30:30 AM Category list returned
+10/12/2020 02:30:30 AM getShelfFilters called
+10/12/2020 02:30:30 AM Shelf filters returned
+10/12/2020 02:30:30 AM Called getData with no parameters
+10/12/2020 02:30:30 AM No filter applied
+
+10/12/2020 02:30:53 AM Log Writer Initialized
+10/12/2020 02:30:53 AM Attempting Log Management
+
+10/12/2020 02:30:53 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:30:53 AM Log Writer Initialized
+10/12/2020 02:30:53 AM Attempting Log Management
+
+10/12/2020 02:30:53 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:30:53 AM getCategoryFilter called
+10/12/2020 02:30:53 AM Category list returned
+10/12/2020 02:30:53 AM getShelfFilters called
+10/12/2020 02:30:53 AM Shelf filters returned
+
+10/12/2020 02:30:53 AM Log Writer Initialized
+10/12/2020 02:30:53 AM Attempting Log Management
+
+10/12/2020 02:30:53 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:30:54 AM Log Writer Initialized
+10/12/2020 02:30:54 AM Attempting Log Management
+
+10/12/2020 02:30:54 AM report Writer Initialized
+10/12/2020 02:30:54 AM Attempting Report Management
+
+10/12/2020 02:30:54 AM Log Writer Initialized
+10/12/2020 02:30:54 AM Attempting Log Management
+10/12/2020 02:31:06 AM Application started successfully.
+10/12/2020 02:31:14 AM Application exit.
+10/12/2020 02:31:14 AM ----------------------------------------------------------------------------
+
+10/12/2020 02:31:34 AM Log Writer Initialized
+10/12/2020 02:31:34 AM Attempting Log Management
+
+10/12/2020 02:31:34 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:31:34 AM Log Writer Initialized
+10/12/2020 02:31:34 AM Attempting Log Management
+
+10/12/2020 02:31:34 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:31:34 AM getCategoryFilter called
+10/12/2020 02:31:34 AM Category list returned
+10/12/2020 02:31:34 AM getShelfFilters called
+10/12/2020 02:31:35 AM Shelf filters returned
+
+10/12/2020 02:31:35 AM Log Writer Initialized
+10/12/2020 02:31:35 AM Attempting Log Management
+
+10/12/2020 02:31:35 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:31:35 AM Log Writer Initialized
+10/12/2020 02:31:35 AM Attempting Log Management
+
+10/12/2020 02:31:35 AM report Writer Initialized
+10/12/2020 02:31:35 AM Attempting Report Management
+
+10/12/2020 02:31:35 AM Log Writer Initialized
+10/12/2020 02:31:35 AM Attempting Log Management
+10/12/2020 02:31:41 AM Application started successfully.
+10/12/2020 02:32:15 AM Application exit.
+10/12/2020 02:32:15 AM ----------------------------------------------------------------------------
+
+10/12/2020 02:39:40 AM Log Writer Initialized
+10/12/2020 02:39:40 AM Attempting Log Management
+
+10/12/2020 02:39:40 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:39:40 AM Log Writer Initialized
+10/12/2020 02:39:41 AM Attempting Log Management
+
+10/12/2020 02:39:41 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:39:41 AM getCategoryFilter called
+10/12/2020 02:39:41 AM Category list returned
+10/12/2020 02:39:41 AM getShelfFilters called
+10/12/2020 02:39:41 AM Shelf filters returned
+
+10/12/2020 02:39:41 AM Log Writer Initialized
+10/12/2020 02:39:41 AM Attempting Log Management
+
+10/12/2020 02:39:41 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:39:41 AM Log Writer Initialized
+10/12/2020 02:39:41 AM Attempting Log Management
+
+10/12/2020 02:39:41 AM report Writer Initialized
+10/12/2020 02:39:41 AM Attempting Report Management
+
+10/12/2020 02:39:42 AM Log Writer Initialized
+10/12/2020 02:39:42 AM Attempting Log Management
+10/12/2020 02:39:47 AM Application started successfully.
+10/12/2020 02:39:52 AM Application exit.
+10/12/2020 02:39:52 AM ----------------------------------------------------------------------------
+
+10/12/2020 02:40:56 AM Log Writer Initialized
+10/12/2020 02:40:56 AM Attempting Log Management
+
+10/12/2020 02:40:56 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:40:56 AM Log Writer Initialized
+10/12/2020 02:40:56 AM Attempting Log Management
+
+10/12/2020 02:40:56 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:40:56 AM getCategoryFilter called
+10/12/2020 02:40:56 AM Category list returned
+10/12/2020 02:40:56 AM getShelfFilters called
+10/12/2020 02:40:56 AM Shelf filters returned
+
+10/12/2020 02:40:56 AM Log Writer Initialized
+10/12/2020 02:40:57 AM Attempting Log Management
+
+10/12/2020 02:40:57 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:40:57 AM Log Writer Initialized
+10/12/2020 02:40:57 AM Attempting Log Management
+
+10/12/2020 02:40:57 AM report Writer Initialized
+10/12/2020 02:40:57 AM Attempting Report Management
+
+10/12/2020 02:40:57 AM Log Writer Initialized
+10/12/2020 02:40:57 AM Attempting Log Management
+10/12/2020 02:41:04 AM Application started successfully.
+
+10/12/2020 02:47:02 AM Log Writer Initialized
+10/12/2020 02:47:02 AM Attempting Log Management
+
+10/12/2020 02:47:02 AM Login initialized with dBaseLocation: librarianDBase.enc
+
+10/12/2020 02:47:02 AM Log Writer Initialized
+10/12/2020 02:47:02 AM Attempting Log Management
+
+10/12/2020 02:47:02 AM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10/12/2020 02:47:02 AM getCategoryFilter called
+10/12/2020 02:47:02 AM Category list returned
+10/12/2020 02:47:02 AM getShelfFilters called
+10/12/2020 02:47:02 AM Shelf filters returned
+
+10/12/2020 02:47:02 AM Log Writer Initialized
+10/12/2020 02:47:02 AM Attempting Log Management
+
+10/12/2020 02:47:03 AM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10/12/2020 02:47:03 AM Log Writer Initialized
+10/12/2020 02:47:03 AM Attempting Log Management
+
+10/12/2020 02:47:03 AM report Writer Initialized
+10/12/2020 02:47:03 AM Attempting Report Management
+
+10/12/2020 02:47:03 AM Log Writer Initialized
+10/12/2020 02:47:03 AM Attempting Log Management
+10/12/2020 02:47:09 AM Application started successfully.
+10/12/2020 02:47:37 AM Returned log for 10-12-2020
+10/12/2020 02:47:55 AM Application exit.
+10/12/2020 02:47:55 AM ----------------------------------------------------------------------------
+
+10-12-2020 02:56:13 PM Log Writer Initialized
+10-12-2020 02:56:13 PM Attempting Log Management
+
+10-12-2020 02:56:13 PM Login initialized with dBaseLocation: librarianDBase.enc
+
+10-12-2020 02:56:13 PM Log Writer Initialized
+10-12-2020 02:56:13 PM Attempting Log Management
+
+10-12-2020 02:56:13 PM Initialized Book Management with databaselocation 'LMS.accdb' and table 'Books'
+10-12-2020 02:56:13 PM getCategoryFilter called
+10-12-2020 02:56:16 PM Category list returned
+10-12-2020 02:56:16 PM getShelfFilters called
+10-12-2020 02:56:17 PM Shelf filters returned
+
+10-12-2020 02:56:17 PM Log Writer Initialized
+10-12-2020 02:56:17 PM Attempting Log Management
+
+10-12-2020 02:56:17 PM Login initialized with dBaseLocation: LMS.accdb, table: Book_Issues
+
+10-12-2020 02:56:17 PM Log Writer Initialized
+10-12-2020 02:56:17 PM Attempting Log Management
+
+10-12-2020 02:56:17 PM report Writer Initialized
+10-12-2020 02:56:17 PM Attempting Report Management
+
+10-12-2020 02:56:17 PM Log Writer Initialized
+10-12-2020 02:56:17 PM Attempting Log Management
+10-12-2020 02:56:49 PM Application started successfully.
+10-12-2020 02:58:56 PM Application exit.
+10-12-2020 02:58:56 PM ----------------------------------------------------------------------------
