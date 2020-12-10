@@ -1,0 +1,20 @@
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogin.resources
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\chathurya\source\repos\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe.config
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.exe
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\bin\Debug\LibrarySystem.pdb
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csprojAssemblyReference.cache
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.frmLogin.resources
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.Properties.Resources.resources
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.GenerateResource.cache
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.exe
+C:\Users\Acer Nitro 5\Desktop\LibrarySystem\LibrarySystem\LibrarySystem\obj\Debug\LibrarySystem.pdb
