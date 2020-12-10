@@ -1,0 +1,27 @@
+Library Management System v1.0
+Application Log for 07-12-2020
+
+
+07/12/2020 08:44:51 PM Log Writer Initialized
+07/12/2020 08:44:51 PM Attempting Log Management
+
+07/12/2020 08:44:52 PM report Writer Initialized
+07/12/2020 08:44:52 PM Initialized new report
+07/12/2020 08:44:52 PM Attempting Report Management
+
+07/12/2020 08:46:11 PM Log Writer Initialized
+07/12/2020 08:46:11 PM Attempting Log Management
+
+07/12/2020 08:46:11 PM report Writer Initialized
+07/12/2020 08:46:11 PM Initialized new report
+07/12/2020 08:46:11 PM Attempting Report Management
+07/12/2020 08:46:11 PM Old Report 'Report 05-12-2020.rpt' found. Moving to 'Reports' folder
+07/12/2020 08:46:11 PM Moved successfully
+
+07/12/2020 08:46:46 PM Log Writer Initialized
+07/12/2020 08:46:46 PM Attempting Log Management
+
+07/12/2020 08:46:46 PM report Writer Initialized
+07/12/2020 08:46:46 PM Attempting Report Management
+07/12/2020 08:46:49 PM Attempting to read Report file Report 05-12-2020.rpt
+07/12/2020 08:46:49 PM Successfully read
