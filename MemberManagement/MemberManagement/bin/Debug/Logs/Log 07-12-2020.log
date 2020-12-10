@@ -1,0 +1,9 @@
+Library Management System v1.0
+Application Log for 07-12-2020
+
+
+07/12/2020 10:22:38 PM Log Writer Initialized
+07/12/2020 10:22:38 PM Attempting Log Management
+07/12/2020 10:22:38 PM Login initialized with dBaseLocation: Database\LMS.accdb, Table: Members
+07/12/2020 10:22:38 PM getData called with no parameters
+07/12/2020 10:22:38 PM Data returned

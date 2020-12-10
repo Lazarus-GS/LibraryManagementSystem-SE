@@ -1,0 +1,59 @@
+Library Management System v1.0
+Application Log for 09-12-2020
+
+
+09/12/2020 06:59:29 PM Log Writer Initialized
+09/12/2020 06:59:29 PM Attempting Log Management
+09/12/2020 06:59:29 PM Old Log 'Log 07-12-2020.log' found. Moving to 'Logs' folder
+09/12/2020 06:59:29 PM Moved successfully
+09/12/2020 06:59:29 PM Login initialized with dBaseLocation: Database\LMS.accdb, Table: Members
+09/12/2020 06:59:29 PM getData called with no parameters
+09/12/2020 06:59:29 PM Data returned
+09/12/2020 06:59:33 PM Filter applied: 3 Term: '%8%'
+09/12/2020 06:59:33 PM getData called with no parameters
+09/12/2020 06:59:33 PM Data returned
+09/12/2020 06:59:36 PM Filter removed
+09/12/2020 06:59:36 PM getData called with no parameters
+09/12/2020 06:59:36 PM Data returned
+09/12/2020 06:59:41 PM getInfo called with iD 14
+09/12/2020 06:59:41 PM Data returned
+09/12/2020 06:59:45 PM Filter applied: 2 Term: '%6%'
+09/12/2020 06:59:45 PM getData called with no parameters
+09/12/2020 06:59:45 PM Data returned
+09/12/2020 06:59:47 PM Filter removed
+09/12/2020 06:59:47 PM getData called with no parameters
+09/12/2020 06:59:47 PM Data returned
+
+09/12/2020 06:59:52 PM Log Writer Initialized
+09/12/2020 06:59:52 PM Attempting Log Management
+09/12/2020 06:59:52 PM Login initialized with dBaseLocation: Database\LMS.accdb, Table: Members
+09/12/2020 06:59:52 PM getData called with no parameters
+09/12/2020 06:59:52 PM Data returned
+
+09/12/2020 09:16:14 PM Log Writer Initialized
+09/12/2020 09:16:14 PM Attempting Log Management
+09/12/2020 09:16:14 PM Login initialized with dBaseLocation: Database\LMS.accdb, Table: Members
+09/12/2020 09:16:14 PM getData called with no parameters
+09/12/2020 09:16:15 PM Data returned
+09/12/2020 09:16:17 PM suspendUser called for iD 1
+09/12/2020 09:16:17 PM Failed. Error: Syntax error (missing operator) in query expression '09:16:17 PM 12/09/2020'.
+09/12/2020 09:16:17 PM getData called with no parameters
+09/12/2020 09:16:17 PM Data returned
+09/12/2020 09:16:23 PM getInfo called with iD 2
+09/12/2020 09:16:23 PM Data returned
+09/12/2020 09:16:24 PM getInfo called with iD 1
+09/12/2020 09:16:24 PM Data returned
+
+09/12/2020 09:17:13 PM Log Writer Initialized
+09/12/2020 09:17:13 PM Attempting Log Management
+09/12/2020 09:17:13 PM Login initialized with dBaseLocation: Database\LMS.accdb, Table: Members
+09/12/2020 09:17:13 PM getData called with no parameters
+09/12/2020 09:17:14 PM Data returned
+09/12/2020 09:17:19 PM suspendUser called for iD 1
+09/12/2020 09:17:20 PM Successfully suspended
+09/12/2020 09:17:20 PM getData called with no parameters
+09/12/2020 09:17:20 PM Data returned
+09/12/2020 09:17:22 PM getInfo called with iD 2
+09/12/2020 09:17:22 PM Data returned
+09/12/2020 09:17:24 PM getInfo called with iD 1
+09/12/2020 09:17:24 PM Data returned
