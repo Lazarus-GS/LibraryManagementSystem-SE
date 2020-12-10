@@ -1,0 +1,321 @@
+Library Management System v1.0
+Application Log for 07-12-2020
+
+
+07/12/2020 09:12:41 PM Log Writer Initialized
+07/12/2020 09:12:41 PM Attempting Log Management
+
+07/12/2020 09:12:41 PM Initialized Book Management with databaselocation  and table 
+07/12/2020 09:12:41 PM getCategoryFilter called
+
+07/12/2020 09:13:39 PM Log Writer Initialized
+07/12/2020 09:13:39 PM Attempting Log Management
+
+07/12/2020 09:13:39 PM Initialized Book Management with databaselocation  and table 
+07/12/2020 09:13:39 PM getCategoryFilter called
+07/12/2020 09:13:40 PM Category list returned
+07/12/2020 09:13:40 PM getShelfFilters called
+07/12/2020 09:13:41 PM Shelf filters returned
+07/12/2020 09:13:41 PM Filter removed
+07/12/2020 09:13:41 PM Called getData with no parameters
+07/12/2020 09:13:41 PM No filter applied
+07/12/2020 09:13:42 PM Successfully returned
+07/12/2020 09:13:42 PM getShelfFilters called
+07/12/2020 09:13:42 PM Shelf filters returned
+07/12/2020 09:13:42 PM getCategoryFilter called
+07/12/2020 09:13:42 PM Category list returned
+07/12/2020 09:13:42 PM Filter removed
+07/12/2020 09:13:42 PM Called getData with no parameters
+07/12/2020 09:13:42 PM No filter applied
+07/12/2020 09:13:42 PM Successfully returned
+
+07/12/2020 09:15:26 PM Log Writer Initialized
+07/12/2020 09:15:26 PM Attempting Log Management
+
+07/12/2020 09:15:26 PM Initialized Book Management with databaselocation  and table 
+07/12/2020 09:15:26 PM getCategoryFilter called
+07/12/2020 09:15:29 PM Category list returned
+07/12/2020 09:15:29 PM getShelfFilters called
+07/12/2020 09:15:29 PM Shelf filters returned
+07/12/2020 09:15:29 PM Filter removed
+07/12/2020 09:15:29 PM Called getData with no parameters
+07/12/2020 09:15:29 PM No filter applied
+07/12/2020 09:15:29 PM Successfully returned
+07/12/2020 09:15:29 PM getShelfFilters called
+07/12/2020 09:15:29 PM Shelf filters returned
+07/12/2020 09:15:30 PM getCategoryFilter called
+07/12/2020 09:15:30 PM Category list returned
+07/12/2020 09:15:30 PM Filter removed
+07/12/2020 09:15:30 PM Called getData with no parameters
+07/12/2020 09:15:30 PM No filter applied
+07/12/2020 09:15:30 PM Successfully returned
+
+07/12/2020 09:39:46 PM Log Writer Initialized
+07/12/2020 09:39:46 PM Attempting Log Management
+
+07/12/2020 09:39:46 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:39:46 PM getCategoryFilter called
+07/12/2020 09:39:48 PM Category list returned
+07/12/2020 09:39:48 PM getShelfFilters called
+07/12/2020 09:39:48 PM Shelf filters returned
+07/12/2020 09:39:48 PM Filter removed
+07/12/2020 09:39:48 PM Called getData with no parameters
+07/12/2020 09:39:48 PM No filter applied
+07/12/2020 09:39:49 PM Successfully returned
+07/12/2020 09:39:49 PM getShelfFilters called
+07/12/2020 09:39:49 PM Shelf filters returned
+07/12/2020 09:39:49 PM getCategoryFilter called
+07/12/2020 09:39:49 PM Category list returned
+07/12/2020 09:39:49 PM Filter removed
+07/12/2020 09:39:49 PM Called getData with no parameters
+07/12/2020 09:39:49 PM No filter applied
+07/12/2020 09:39:50 PM Successfully returned
+
+07/12/2020 09:39:56 PM Log Writer Initialized
+07/12/2020 09:39:56 PM Attempting Log Management
+
+07/12/2020 09:39:56 PM Initialized Book Management with databaselocation 'Database/LMS.accdb' and table 'Books'
+07/12/2020 09:39:56 PM getCategoryFilter called
+
+07/12/2020 09:41:36 PM Log Writer Initialized
+07/12/2020 09:41:36 PM Attempting Log Management
+
+07/12/2020 09:41:36 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:41:36 PM getCategoryFilter called
+07/12/2020 09:41:36 PM Category list returned
+07/12/2020 09:41:36 PM getShelfFilters called
+07/12/2020 09:41:36 PM Shelf filters returned
+07/12/2020 09:41:36 PM Filter removed
+07/12/2020 09:41:36 PM Called getData with no parameters
+07/12/2020 09:41:37 PM No filter applied
+07/12/2020 09:41:37 PM Successfully returned
+07/12/2020 09:41:37 PM getShelfFilters called
+07/12/2020 09:41:37 PM Shelf filters returned
+07/12/2020 09:41:37 PM getCategoryFilter called
+07/12/2020 09:41:37 PM Category list returned
+07/12/2020 09:41:37 PM Filter removed
+07/12/2020 09:41:37 PM Called getData with no parameters
+07/12/2020 09:41:37 PM No filter applied
+07/12/2020 09:41:37 PM Successfully returned
+
+07/12/2020 09:41:40 PM Log Writer Initialized
+07/12/2020 09:41:40 PM Attempting Log Management
+
+07/12/2020 09:41:40 PM Initialized Book Management with databaselocation 'Database/LMS.accdb' and table 'Books'
+07/12/2020 09:41:40 PM getCategoryFilter called
+
+07/12/2020 09:42:03 PM Log Writer Initialized
+07/12/2020 09:42:03 PM Attempting Log Management
+
+07/12/2020 09:42:03 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:42:03 PM getCategoryFilter called
+07/12/2020 09:42:04 PM Category list returned
+07/12/2020 09:42:04 PM getShelfFilters called
+07/12/2020 09:42:04 PM Shelf filters returned
+07/12/2020 09:42:04 PM Filter removed
+07/12/2020 09:42:04 PM Called getData with no parameters
+07/12/2020 09:42:04 PM No filter applied
+07/12/2020 09:42:04 PM Successfully returned
+07/12/2020 09:42:04 PM getShelfFilters called
+07/12/2020 09:42:04 PM Shelf filters returned
+07/12/2020 09:42:04 PM getCategoryFilter called
+07/12/2020 09:42:04 PM Category list returned
+07/12/2020 09:42:04 PM Filter removed
+07/12/2020 09:42:04 PM Called getData with no parameters
+07/12/2020 09:42:04 PM No filter applied
+07/12/2020 09:42:04 PM Successfully returned
+07/12/2020 09:43:05 PM Called getData with no parameters
+07/12/2020 09:43:05 PM No filter applied
+07/12/2020 09:43:05 PM Successfully returned
+
+07/12/2020 09:43:08 PM Log Writer Initialized
+07/12/2020 09:43:08 PM Attempting Log Management
+
+07/12/2020 09:43:08 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:43:08 PM getCategoryFilter called
+07/12/2020 09:43:08 PM Category list returned
+07/12/2020 09:43:08 PM getShelfFilters called
+07/12/2020 09:43:08 PM Shelf filters returned
+07/12/2020 09:43:08 PM Filter removed
+07/12/2020 09:43:08 PM Called getData with no parameters
+07/12/2020 09:43:08 PM No filter applied
+07/12/2020 09:43:09 PM Successfully returned
+07/12/2020 09:43:09 PM getShelfFilters called
+07/12/2020 09:43:09 PM Shelf filters returned
+07/12/2020 09:43:09 PM getCategoryFilter called
+07/12/2020 09:43:09 PM Category list returned
+07/12/2020 09:43:09 PM Filter removed
+07/12/2020 09:43:09 PM Called getData with no parameters
+07/12/2020 09:43:09 PM No filter applied
+07/12/2020 09:43:09 PM Successfully returned
+07/12/2020 09:43:25 PM Called getData with no parameters
+07/12/2020 09:43:25 PM No filter applied
+07/12/2020 09:43:25 PM Successfully returned
+
+07/12/2020 09:43:53 PM Log Writer Initialized
+07/12/2020 09:43:53 PM Attempting Log Management
+
+07/12/2020 09:43:53 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:43:53 PM getCategoryFilter called
+07/12/2020 09:43:53 PM Category list returned
+07/12/2020 09:43:53 PM getShelfFilters called
+07/12/2020 09:43:53 PM Shelf filters returned
+07/12/2020 09:43:53 PM Filter removed
+07/12/2020 09:43:53 PM Called getData with no parameters
+07/12/2020 09:43:53 PM No filter applied
+07/12/2020 09:43:54 PM Successfully returned
+07/12/2020 09:43:54 PM getShelfFilters called
+07/12/2020 09:43:54 PM Shelf filters returned
+07/12/2020 09:43:54 PM getCategoryFilter called
+07/12/2020 09:43:54 PM Category list returned
+07/12/2020 09:43:54 PM Filter removed
+07/12/2020 09:43:54 PM Called getData with no parameters
+07/12/2020 09:43:54 PM No filter applied
+07/12/2020 09:43:54 PM Successfully returned
+
+07/12/2020 09:43:56 PM Log Writer Initialized
+07/12/2020 09:43:56 PM Attempting Log Management
+
+07/12/2020 09:43:56 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:43:56 PM getCategoryFilter called
+07/12/2020 09:43:56 PM Category list returned
+07/12/2020 09:43:56 PM getShelfFilters called
+07/12/2020 09:43:56 PM Shelf filters returned
+07/12/2020 09:43:56 PM Set dBaseLocation to 'Database/LMS.accdb'
+07/12/2020 09:45:52 PM createBook called
+07/12/2020 09:45:53 PM Failed. Error: 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\BookManagement\BookManagement\bin\Debug\Database\LMS.accdb' is not a valid path. Make sure that the path name is spelled correctly and that you are connected to the server on which the file resides.
+
+07/12/2020 09:47:02 PM Log Writer Initialized
+07/12/2020 09:47:02 PM Attempting Log Management
+
+07/12/2020 09:47:02 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:47:02 PM getCategoryFilter called
+07/12/2020 09:47:03 PM Category list returned
+07/12/2020 09:47:03 PM getShelfFilters called
+07/12/2020 09:47:03 PM Shelf filters returned
+07/12/2020 09:47:03 PM Filter removed
+07/12/2020 09:47:03 PM Called getData with no parameters
+07/12/2020 09:47:03 PM No filter applied
+07/12/2020 09:47:03 PM Successfully returned
+07/12/2020 09:47:03 PM getShelfFilters called
+07/12/2020 09:47:03 PM Shelf filters returned
+07/12/2020 09:47:03 PM getCategoryFilter called
+07/12/2020 09:47:03 PM Category list returned
+07/12/2020 09:47:03 PM Filter removed
+07/12/2020 09:47:03 PM Called getData with no parameters
+07/12/2020 09:47:03 PM No filter applied
+07/12/2020 09:47:03 PM Successfully returned
+
+07/12/2020 09:47:04 PM Log Writer Initialized
+07/12/2020 09:47:04 PM Attempting Log Management
+
+07/12/2020 09:47:04 PM Initialized Book Management with databaselocation '' and table 'Books'
+07/12/2020 09:47:04 PM getCategoryFilter called
+
+07/12/2020 09:47:57 PM Log Writer Initialized
+07/12/2020 09:47:57 PM Attempting Log Management
+
+07/12/2020 09:47:57 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:47:57 PM getCategoryFilter called
+07/12/2020 09:47:57 PM Category list returned
+07/12/2020 09:47:57 PM getShelfFilters called
+07/12/2020 09:47:57 PM Shelf filters returned
+07/12/2020 09:47:57 PM Filter removed
+07/12/2020 09:47:57 PM Called getData with no parameters
+07/12/2020 09:47:57 PM No filter applied
+07/12/2020 09:47:58 PM Successfully returned
+07/12/2020 09:47:58 PM getShelfFilters called
+07/12/2020 09:47:58 PM Shelf filters returned
+07/12/2020 09:47:58 PM getCategoryFilter called
+07/12/2020 09:47:58 PM Category list returned
+07/12/2020 09:47:58 PM Filter removed
+07/12/2020 09:47:58 PM Called getData with no parameters
+07/12/2020 09:47:58 PM No filter applied
+07/12/2020 09:47:58 PM Successfully returned
+
+07/12/2020 09:47:59 PM Log Writer Initialized
+07/12/2020 09:47:59 PM Attempting Log Management
+
+07/12/2020 09:47:59 PM Initialized Book Management with databaselocation '' and table 'Books'
+07/12/2020 09:47:59 PM getCategoryFilter called
+
+07/12/2020 09:49:33 PM Log Writer Initialized
+07/12/2020 09:49:33 PM Attempting Log Management
+
+07/12/2020 09:49:33 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:49:33 PM getCategoryFilter called
+07/12/2020 09:49:34 PM Category list returned
+07/12/2020 09:49:34 PM getShelfFilters called
+07/12/2020 09:49:34 PM Shelf filters returned
+07/12/2020 09:49:34 PM Filter removed
+07/12/2020 09:49:34 PM Called getData with no parameters
+07/12/2020 09:49:34 PM No filter applied
+07/12/2020 09:49:34 PM Successfully returned
+07/12/2020 09:49:34 PM getShelfFilters called
+07/12/2020 09:49:34 PM Shelf filters returned
+07/12/2020 09:49:34 PM getCategoryFilter called
+07/12/2020 09:49:34 PM Category list returned
+07/12/2020 09:49:34 PM Filter removed
+07/12/2020 09:49:34 PM Called getData with no parameters
+07/12/2020 09:49:34 PM No filter applied
+07/12/2020 09:49:35 PM Successfully returned
+
+07/12/2020 09:49:35 PM Log Writer Initialized
+07/12/2020 09:49:35 PM Attempting Log Management
+
+07/12/2020 09:49:35 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:49:36 PM getCategoryFilter called
+07/12/2020 09:49:36 PM Category list returned
+07/12/2020 09:49:36 PM getShelfFilters called
+07/12/2020 09:49:36 PM Shelf filters returned
+07/12/2020 09:49:36 PM Set dBaseLocation to 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb'
+07/12/2020 09:50:17 PM createBook called
+07/12/2020 09:50:17 PM Failed. Error: No value given for one or more required parameters.
+
+07/12/2020 09:52:07 PM Log Writer Initialized
+07/12/2020 09:52:07 PM Attempting Log Management
+
+07/12/2020 09:52:07 PM Initialized Book Management with databaselocation 'D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb' and table 'Books'
+07/12/2020 09:52:07 PM getCategoryFilter called
+07/12/2020 09:52:07 PM Category list returned
+07/12/2020 09:52:07 PM getShelfFilters called
+07/12/2020 09:52:08 PM Shelf filters returned
+07/12/2020 09:52:08 PM Filter removed
+07/12/2020 09:52:08 PM Called getData with no parameters
+07/12/2020 09:52:08 PM No filter applied
+07/12/2020 09:52:08 PM Successfully returned
+07/12/2020 09:52:08 PM getShelfFilters called
+07/12/2020 09:52:08 PM Shelf filters returned
+07/12/2020 09:52:08 PM getCategoryFilter called
+07/12/2020 09:52:08 PM Category list returned
+07/12/2020 09:52:08 PM Filter removed
+07/12/2020 09:52:08 PM Called getData with no parameters
+07/12/2020 09:52:08 PM No filter applied
+07/12/2020 09:52:08 PM Successfully returned
+07/12/2020 09:53:26 PM Called getData with no parameters
+07/12/2020 09:53:26 PM No filter applied
+07/12/2020 09:53:26 PM Successfully returned
+07/12/2020 09:54:09 PM Filter applied 1. Term: '%a%'
+07/12/2020 09:54:09 PM Called getData with no parameters
+07/12/2020 09:54:09 PM Filter applied: Title, '%a%'
+07/12/2020 09:54:09 PM Successfully returned
+07/12/2020 09:54:09 PM Filter applied 1. Term: '%an%'
+07/12/2020 09:54:09 PM Called getData with no parameters
+07/12/2020 09:54:09 PM Filter applied: Title, '%an%'
+07/12/2020 09:54:09 PM Successfully returned
+07/12/2020 09:54:10 PM Filter applied 1. Term: '%ang%'
+07/12/2020 09:54:10 PM Called getData with no parameters
+07/12/2020 09:54:10 PM Filter applied: Title, '%ang%'
+07/12/2020 09:54:10 PM Successfully returned
+07/12/2020 09:54:11 PM Filter applied 1. Term: '%an%'
+07/12/2020 09:54:11 PM Called getData with no parameters
+07/12/2020 09:54:11 PM Filter applied: Title, '%an%'
+07/12/2020 09:54:11 PM Successfully returned
+07/12/2020 09:54:11 PM Filter applied 1. Term: '%a%'
+07/12/2020 09:54:11 PM Called getData with no parameters
+07/12/2020 09:54:11 PM Filter applied: Title, '%a%'
+07/12/2020 09:54:12 PM Successfully returned
+07/12/2020 09:54:12 PM Filter removed
+07/12/2020 09:54:12 PM Called getData with no parameters
+07/12/2020 09:54:12 PM No filter applied
+07/12/2020 09:54:12 PM Successfully returned
