@@ -1,0 +1,75 @@
+Library Management System v1.0
+Application Log for 10-12-2020
+
+
+10/12/2020 12:25:52 AM Log Writer Initialized
+10/12/2020 12:25:52 AM Attempting Log Management
+10/12/2020 12:25:52 AM Old Log 'Log 09-12-2020.log' found. Moving to 'Logs' folder
+10/12/2020 12:25:52 AM Moved successfully
+
+10/12/2020 12:25:52 AM Login initialized with dBaseLocation: D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb, table: Book_Issues
+10/12/2020 12:25:53 AM getData called with no parameters
+10/12/2020 12:25:53 AM Data returned
+10/12/2020 12:26:00 AM Return checkout for checkoutID 6
+10/12/2020 12:26:00 AM Successfully returned
+
+10/12/2020 12:30:50 AM Log Writer Initialized
+10/12/2020 12:30:50 AM Attempting Log Management
+
+10/12/2020 12:30:50 AM Login initialized with dBaseLocation: D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb, table: Book_Issues
+10/12/2020 12:30:50 AM getData called with no parameters
+10/12/2020 12:30:50 AM Data returned
+10/12/2020 12:31:14 AM Checkout for User: 4, Book: 4
+10/12/2020 12:31:14 AM Successfully logged out
+10/12/2020 12:31:23 AM getData called with no parameters
+10/12/2020 12:31:23 AM Data returned
+10/12/2020 12:31:25 AM getData called for checkoutID 9
+10/12/2020 12:31:25 AM Data returned
+10/12/2020 12:31:25 AM getInfo called for checkoutID 9
+10/12/2020 12:31:25 AM getData called for checkoutID 9
+10/12/2020 12:31:26 AM Data returned
+10/12/2020 12:31:26 AM Data returned
+10/12/2020 12:31:28 AM getData called for checkoutID 9
+10/12/2020 12:31:28 AM Data returned
+10/12/2020 12:31:28 AM getInfo called for checkoutID 9
+10/12/2020 12:31:28 AM getData called for checkoutID 9
+10/12/2020 12:31:28 AM Data returned
+10/12/2020 12:31:28 AM Data returned
+10/12/2020 12:31:31 AM Return checkout for checkoutID 9
+10/12/2020 12:31:31 AM Successfully returned
+
+10/12/2020 12:46:14 AM Log Writer Initialized
+10/12/2020 12:46:14 AM Attempting Log Management
+
+10/12/2020 12:46:14 AM Login initialized with dBaseLocation: D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb, table: Book_Issues
+10/12/2020 12:46:14 AM getData called with no parameters
+10/12/2020 12:46:15 AM Data returned
+10/12/2020 12:46:42 AM Checkout for User: 1, Book: 1
+10/12/2020 12:46:42 AM Successfully logged out
+10/12/2020 12:46:44 AM getData called with no parameters
+10/12/2020 12:46:44 AM Data returned
+10/12/2020 12:46:50 AM getData called for checkoutID 10
+10/12/2020 12:46:50 AM Data returned
+10/12/2020 12:46:50 AM getInfo called for checkoutID 10
+10/12/2020 12:46:50 AM getData called for checkoutID 10
+10/12/2020 12:46:50 AM Data returned
+10/12/2020 12:46:50 AM Data returned
+10/12/2020 12:46:51 AM Return checkout for checkoutID 10
+10/12/2020 12:46:51 AM Failed. Error: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+10/12/2020 12:47:05 AM Return checkout for checkoutID 10
+10/12/2020 12:47:05 AM Failed. Error: The changes you requested to the table were not successful because they would create duplicate values in the index, primary key, or relationship. Change the data in the field or fields that contain duplicate data, remove the index, or redefine the index to permit duplicate entries and try again.
+
+10/12/2020 12:50:39 AM Log Writer Initialized
+10/12/2020 12:50:39 AM Attempting Log Management
+
+10/12/2020 12:50:39 AM Login initialized with dBaseLocation: D:\SLTC\Semester 04\Software Engineering project\Assignments\Assignment Main\My Work\Database\LMS.accdb, table: Book_Issues
+10/12/2020 12:50:39 AM getData called with no parameters
+10/12/2020 12:50:39 AM Data returned
+10/12/2020 12:50:42 AM getData called for checkoutID 10
+10/12/2020 12:50:42 AM Data returned
+10/12/2020 12:50:42 AM getInfo called for checkoutID 10
+10/12/2020 12:50:42 AM getData called for checkoutID 10
+10/12/2020 12:50:44 AM Data returned
+10/12/2020 12:50:44 AM Data returned
+10/12/2020 12:50:44 AM Return checkout for checkoutID 10
+10/12/2020 12:50:44 AM Successfully returned
